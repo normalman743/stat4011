@@ -1,0 +1,23 @@
+{
+  "model": "snowflake-arctic-embed2:latest",
+  "text_cols": [
+    "Crm Cd Desc",
+    "Premis Desc",
+    "Weapon Desc",
+    "Status Desc",
+    "AREA NAME"
+  ],
+  "cat_cols": [
+    "Vict Sex",
+    "Vict Descent"
+  ],
+  "num_cols": [
+    "LAT",
+    "LON",
+    "Vict Age"
+  ],
+  "embedding_dim": 1024,
+  "count_col": "crime_count",
+  "date_col": "date",
+  "source_file": "/Users/mannormal/Desktop/课程/y4t1/stat 4011/part2/cleaned_data/Crime_Data_2010_to_Present_Cleaned_merged_and_deduped_20250929_add_by_def_fill_some_v3.1.csv"
+}
