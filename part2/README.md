@@ -3,9 +3,9 @@
 This folder contains the crime-analysis workflow: data cleaning, EDA/visualization, and sequence models (Transformer/LSTM) for daily crime prediction.
 
 ## Data not committed
-- `orginaldata/` (raw CSVs) — large source files.
-- `cleaned_data/` — processed outputs derived from the raw data.
-All processing code is included so the data can be regenerated locally.
+- `orginaldata/` (raw CSVs) — obtain from LAPD official releases or the course Blackboard; not stored here due to size/licensing.
+- `cleaned_data/` — processed outputs; downloadable copy (read-only) on Drive: https://drive.google.com/drive/folders/1I7GNt0kcznnNRe6aYDqoR17qqlPBmKNV?usp=sharing
+All processing code is included so the data can be regenerated locally if you have the raw files.
 
 ## What each script does
 - `datacleaning.py` / `preprocess_to_daily_csv.py`: clean raw crime data and reshape to daily-level CSVs; writes into `cleaned_data/`.
