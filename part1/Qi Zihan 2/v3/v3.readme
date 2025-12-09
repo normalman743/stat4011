@@ -1,0 +1,17 @@
+原始guess 分布 /Users/mannormal/4011/account_scores.csv
+
+  [0.0-0.1): 6780
+  [0.1-0.2): 75
+  [0.2-0.5): 104
+  [0.5-0.8): 113
+  [0.8-1.0]: 486
+
+需要的函数/Users/mannormal/4011/Qi Zihan/v2/results/correct_binary_search.py
+参考之后 模块化几个部分
+
+1. （注意ID，Predict提交获取bad f1 并计算出 TP=, FP=, FN=, TN=    已知 bad:good = 727:6831
+2. 二分法 迭代获得 并使用 第一个 确认给定的account的flag 0:good 1:bad 
+3. /Users/mannormal/4011/account_scores.csv 作为分类标准 每个层 做一个二分法
+4. 不要修改account_scores.csv的值以及每次获得最佳成绩都保留那个csv 并且 起名 x.y x是步骤y是迭代次数 为x.yensemble.csv
+5. 还需要一个test_init 首先分层提交account_scores.csv 我们知道具体分布 然后模拟那个分布 和一个输入.csv 输出bad f1的function
+6. 在所有写好后 我们先测试test

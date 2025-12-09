@@ -1,0 +1,33 @@
+# 忽略所有的 .pyc 文件
+*.pyc
+
+# 忽略所有的日志文件
+*.log
+
+# 忽略特定目录
+__pycache__/
+node_modules/
+
+# 忽略虚拟环境
+venv/
+.venv
+.claude
+pyvenv.cfg
+
+# 忽略各级目录下的虚拟环境产物
+**/bin/
+**/lib/
+**/include/
+**/share/
+**/myenv/
+**/orginaldata/
+**/cleaned_data/
+
+# 其他常见本地/构建文件
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/
+build/
+dist/
+.python-version

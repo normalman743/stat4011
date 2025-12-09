@@ -1,0 +1,2838 @@
+ID,Predict,group_range,label,bad_probability
+a00046,37,绝对Good区域,definitely_good,1.0
+a00093,37,绝对Good区域,definitely_good,1.0
+a00268,37,绝对Good区域,definitely_good,1.0
+a00410,37,绝对Good区域,definitely_good,1.0
+a00516,37,绝对Good区域,definitely_good,1.0
+a00604,37,绝对Good区域,definitely_good,1.0
+a00629,37,绝对Good区域,definitely_good,1.0
+a00639,37,绝对Good区域,definitely_good,1.0
+a00676,37,绝对Good区域,definitely_good,1.0
+a00787,37,绝对Good区域,definitely_good,1.0
+a00804,37,绝对Good区域,definitely_good,1.0
+a00834,37,绝对Good区域,definitely_good,1.0
+a00927,37,绝对Good区域,definitely_good,1.0
+a01078,37,绝对Good区域,definitely_good,1.0
+a01100,37,绝对Good区域,definitely_good,1.0
+a01113,37,绝对Good区域,definitely_good,1.0
+a01120,37,绝对Good区域,definitely_good,1.0
+a01218,37,绝对Good区域,definitely_good,1.0
+a01219,37,绝对Good区域,definitely_good,1.0
+a01244,37,绝对Good区域,definitely_good,1.0
+a01308,37,绝对Good区域,definitely_good,1.0
+a01349,37,绝对Good区域,definitely_good,1.0
+a01369,37,绝对Good区域,definitely_good,1.0
+a01516,37,绝对Good区域,definitely_good,1.0
+a01712,37,绝对Good区域,definitely_good,1.0
+a01733,37,绝对Good区域,definitely_good,1.0
+a01745,37,绝对Good区域,definitely_good,1.0
+a01771,37,绝对Good区域,definitely_good,1.0
+a01778,37,绝对Good区域,definitely_good,1.0
+a01780,37,绝对Good区域,definitely_good,1.0
+a01791,37,绝对Good区域,definitely_good,1.0
+a01807,37,绝对Good区域,definitely_good,1.0
+a02053,37,绝对Good区域,definitely_good,1.0
+a02125,37,绝对Good区域,definitely_good,1.0
+a02215,37,绝对Good区域,definitely_good,1.0
+a02249,37,绝对Good区域,definitely_good,1.0
+a02368,37,绝对Good区域,definitely_good,1.0
+a02553,37,绝对Good区域,definitely_good,1.0
+a02568,37,绝对Good区域,definitely_good,1.0
+a02601,37,绝对Good区域,definitely_good,1.0
+a02732,37,绝对Good区域,definitely_good,1.0
+a02772,37,绝对Good区域,definitely_good,1.0
+a02876,37,绝对Good区域,definitely_good,1.0
+a03030,37,绝对Good区域,definitely_good,1.0
+a03437,37,绝对Good区域,definitely_good,1.0
+a03519,37,绝对Good区域,definitely_good,1.0
+a03525,37,绝对Good区域,definitely_good,1.0
+a03641,37,绝对Good区域,definitely_good,1.0
+a03720,37,绝对Good区域,definitely_good,1.0
+a03728,37,绝对Good区域,definitely_good,1.0
+a03769,37,绝对Good区域,definitely_good,1.0
+a03811,37,绝对Good区域,definitely_good,1.0
+a03817,37,绝对Good区域,definitely_good,1.0
+a03820,37,绝对Good区域,definitely_good,1.0
+a03927,37,绝对Good区域,definitely_good,1.0
+a04076,37,绝对Good区域,definitely_good,1.0
+a04080,37,绝对Good区域,definitely_good,1.0
+a04185,37,绝对Good区域,definitely_good,1.0
+a04259,37,绝对Good区域,definitely_good,1.0
+a04262,37,绝对Good区域,definitely_good,1.0
+a04294,37,绝对Good区域,definitely_good,1.0
+a04427,37,绝对Good区域,definitely_good,1.0
+a04543,37,绝对Good区域,definitely_good,1.0
+a04589,37,绝对Good区域,definitely_good,1.0
+a04693,37,绝对Good区域,definitely_good,1.0
+a04713,37,绝对Good区域,definitely_good,1.0
+a04743,37,绝对Good区域,definitely_good,1.0
+a04806,37,绝对Good区域,definitely_good,1.0
+a04849,37,绝对Good区域,definitely_good,1.0
+a04906,37,绝对Good区域,definitely_good,1.0
+a04914,37,绝对Good区域,definitely_good,1.0
+a04922,37,绝对Good区域,definitely_good,1.0
+a04997,37,绝对Good区域,definitely_good,1.0
+a05116,37,绝对Good区域,definitely_good,1.0
+a05133,37,绝对Good区域,definitely_good,1.0
+a05200,37,绝对Good区域,definitely_good,1.0
+a05300,37,绝对Good区域,definitely_good,1.0
+a05344,37,绝对Good区域,definitely_good,1.0
+a05479,37,绝对Good区域,definitely_good,1.0
+a05554,37,绝对Good区域,definitely_good,1.0
+a05573,37,绝对Good区域,definitely_good,1.0
+a05593,37,绝对Good区域,definitely_good,1.0
+a05840,37,绝对Good区域,definitely_good,1.0
+a05971,37,绝对Good区域,definitely_good,1.0
+a06029,37,绝对Good区域,definitely_good,1.0
+a06058,37,绝对Good区域,definitely_good,1.0
+a06103,37,绝对Good区域,definitely_good,1.0
+a06204,37,绝对Good区域,definitely_good,1.0
+a06259,37,绝对Good区域,definitely_good,1.0
+a06497,37,绝对Good区域,definitely_good,1.0
+a06566,37,绝对Good区域,definitely_good,1.0
+a06609,37,绝对Good区域,definitely_good,1.0
+a06693,37,绝对Good区域,definitely_good,1.0
+a06752,37,绝对Good区域,definitely_good,1.0
+a06928,37,绝对Good区域,definitely_good,1.0
+a06953,37,绝对Good区域,definitely_good,1.0
+a07052,37,绝对Good区域,definitely_good,1.0
+a07109,37,绝对Good区域,definitely_good,1.0
+a07115,37,绝对Good区域,definitely_good,1.0
+a07341,37,绝对Good区域,definitely_good,1.0
+a07360,37,绝对Good区域,definitely_good,1.0
+a07437,37,绝对Good区域,definitely_good,1.0
+a07520,37,绝对Good区域,definitely_good,1.0
+a07689,37,绝对Good区域,definitely_good,1.0
+a07715,37,绝对Good区域,definitely_good,1.0
+a07832,37,绝对Good区域,definitely_good,1.0
+a07889,37,绝对Good区域,definitely_good,1.0
+a07959,37,绝对Good区域,definitely_good,1.0
+a08044,37,绝对Good区域,definitely_good,1.0
+a08105,37,绝对Good区域,definitely_good,1.0
+a08258,37,绝对Good区域,definitely_good,1.0
+a08275,37,绝对Good区域,definitely_good,1.0
+a08442,37,绝对Good区域,definitely_good,1.0
+a08612,37,绝对Good区域,definitely_good,1.0
+a08751,37,绝对Good区域,definitely_good,1.0
+a08888,37,绝对Good区域,definitely_good,1.0
+a08898,37,绝对Good区域,definitely_good,1.0
+a08932,37,绝对Good区域,definitely_good,1.0
+a09112,37,绝对Good区域,definitely_good,1.0
+a09131,37,绝对Good区域,definitely_good,1.0
+a09144,37,绝对Good区域,definitely_good,1.0
+a09162,37,绝对Good区域,definitely_good,1.0
+a09178,37,绝对Good区域,definitely_good,1.0
+a09244,37,绝对Good区域,definitely_good,1.0
+a09316,37,绝对Good区域,definitely_good,1.0
+a09349,37,绝对Good区域,definitely_good,1.0
+a09378,37,绝对Good区域,definitely_good,1.0
+a09397,37,绝对Good区域,definitely_good,1.0
+a09407,37,绝对Good区域,definitely_good,1.0
+a09461,37,绝对Good区域,definitely_good,1.0
+a09568,37,绝对Good区域,definitely_good,1.0
+a09635,37,绝对Good区域,definitely_good,1.0
+a09979,37,绝对Good区域,definitely_good,1.0
+a10009,37,绝对Good区域,definitely_good,1.0
+a10023,37,绝对Good区域,definitely_good,1.0
+a10103,37,绝对Good区域,definitely_good,1.0
+a10172,37,绝对Good区域,definitely_good,1.0
+a10287,37,绝对Good区域,definitely_good,1.0
+a10483,37,绝对Good区域,definitely_good,1.0
+a10506,37,绝对Good区域,definitely_good,1.0
+a10566,37,绝对Good区域,definitely_good,1.0
+a10666,37,绝对Good区域,definitely_good,1.0
+a10696,37,绝对Good区域,definitely_good,1.0
+a10704,37,绝对Good区域,definitely_good,1.0
+a10738,37,绝对Good区域,definitely_good,1.0
+a10791,37,绝对Good区域,definitely_good,1.0
+a10874,37,绝对Good区域,definitely_good,1.0
+a10905,37,绝对Good区域,definitely_good,1.0
+a11099,37,绝对Good区域,definitely_good,1.0
+a11101,37,绝对Good区域,definitely_good,1.0
+a11156,37,绝对Good区域,definitely_good,1.0
+a11175,37,绝对Good区域,definitely_good,1.0
+a11186,37,绝对Good区域,definitely_good,1.0
+a11238,37,绝对Good区域,definitely_good,1.0
+a11426,37,绝对Good区域,definitely_good,1.0
+a11623,37,绝对Good区域,definitely_good,1.0
+a11656,37,绝对Good区域,definitely_good,1.0
+a11682,37,绝对Good区域,definitely_good,1.0
+a12020,37,绝对Good区域,definitely_good,1.0
+a12047,37,绝对Good区域,definitely_good,1.0
+a12049,37,绝对Good区域,definitely_good,1.0
+a12078,37,绝对Good区域,definitely_good,1.0
+a12089,37,绝对Good区域,definitely_good,1.0
+a12104,37,绝对Good区域,definitely_good,1.0
+a12128,37,绝对Good区域,definitely_good,1.0
+a12130,37,绝对Good区域,definitely_good,1.0
+a12156,37,绝对Good区域,definitely_good,1.0
+a12219,37,绝对Good区域,definitely_good,1.0
+a12355,37,绝对Good区域,definitely_good,1.0
+a12458,37,绝对Good区域,definitely_good,1.0
+a12610,37,绝对Good区域,definitely_good,1.0
+a12655,37,绝对Good区域,definitely_good,1.0
+a12683,37,绝对Good区域,definitely_good,1.0
+a12719,37,绝对Good区域,definitely_good,1.0
+a12790,37,绝对Good区域,definitely_good,1.0
+a12869,37,绝对Good区域,definitely_good,1.0
+a12927,37,绝对Good区域,definitely_good,1.0
+a12964,37,绝对Good区域,definitely_good,1.0
+a13155,37,绝对Good区域,definitely_good,1.0
+a13250,37,绝对Good区域,definitely_good,1.0
+a13252,37,绝对Good区域,definitely_good,1.0
+a13289,37,绝对Good区域,definitely_good,1.0
+a13339,37,绝对Good区域,definitely_good,1.0
+a13437,37,绝对Good区域,definitely_good,1.0
+a13468,37,绝对Good区域,definitely_good,1.0
+a13496,37,绝对Good区域,definitely_good,1.0
+a13520,37,绝对Good区域,definitely_good,1.0
+a13561,37,绝对Good区域,definitely_good,1.0
+a13609,37,绝对Good区域,definitely_good,1.0
+a13742,37,绝对Good区域,definitely_good,1.0
+a13762,37,绝对Good区域,definitely_good,1.0
+a13782,37,绝对Good区域,definitely_good,1.0
+a13785,37,绝对Good区域,definitely_good,1.0
+a13796,37,绝对Good区域,definitely_good,1.0
+a13818,37,绝对Good区域,definitely_good,1.0
+a13837,37,绝对Good区域,definitely_good,1.0
+a13876,37,绝对Good区域,definitely_good,1.0
+a13891,37,绝对Good区域,definitely_good,1.0
+a13912,37,绝对Good区域,definitely_good,1.0
+a13920,37,绝对Good区域,definitely_good,1.0
+a13942,37,绝对Good区域,definitely_good,1.0
+a13975,37,绝对Good区域,definitely_good,1.0
+a14092,37,绝对Good区域,definitely_good,1.0
+a14157,37,绝对Good区域,definitely_good,1.0
+a14171,37,绝对Good区域,definitely_good,1.0
+a14193,37,绝对Good区域,definitely_good,1.0
+a14310,37,绝对Good区域,definitely_good,1.0
+a14401,37,绝对Good区域,definitely_good,1.0
+a14428,37,绝对Good区域,definitely_good,1.0
+a14477,37,绝对Good区域,definitely_good,1.0
+a14499,37,绝对Good区域,definitely_good,1.0
+a14642,37,绝对Good区域,definitely_good,1.0
+a14803,37,绝对Good区域,definitely_good,1.0
+a14843,37,绝对Good区域,definitely_good,1.0
+a14875,37,绝对Good区域,definitely_good,1.0
+a15165,37,绝对Good区域,definitely_good,1.0
+a15307,37,绝对Good区域,definitely_good,1.0
+a15366,37,绝对Good区域,definitely_good,1.0
+a15620,37,绝对Good区域,definitely_good,1.0
+a15735,37,绝对Good区域,definitely_good,1.0
+a15871,37,绝对Good区域,definitely_good,1.0
+a15914,37,绝对Good区域,definitely_good,1.0
+a15949,37,绝对Good区域,definitely_good,1.0
+a16048,37,绝对Good区域,definitely_good,1.0
+a16073,37,绝对Good区域,definitely_good,1.0
+a16083,37,绝对Good区域,definitely_good,1.0
+a16100,37,绝对Good区域,definitely_good,1.0
+a16188,37,绝对Good区域,definitely_good,1.0
+a16193,37,绝对Good区域,definitely_good,1.0
+a16368,37,绝对Good区域,definitely_good,1.0
+a16414,37,绝对Good区域,definitely_good,1.0
+a16428,37,绝对Good区域,definitely_good,1.0
+a16546,37,绝对Good区域,definitely_good,1.0
+a16700,37,绝对Good区域,definitely_good,1.0
+a16770,37,绝对Good区域,definitely_good,1.0
+a16900,37,绝对Good区域,definitely_good,1.0
+a16984,37,绝对Good区域,definitely_good,1.0
+a17433,37,绝对Good区域,definitely_good,1.0
+a17482,37,绝对Good区域,definitely_good,1.0
+a17516,37,绝对Good区域,definitely_good,1.0
+a17697,37,绝对Good区域,definitely_good,1.0
+a17804,37,绝对Good区域,definitely_good,1.0
+a17905,37,绝对Good区域,definitely_good,1.0
+a17937,37,绝对Good区域,definitely_good,1.0
+a18087,37,绝对Good区域,definitely_good,1.0
+a18143,37,绝对Good区域,definitely_good,1.0
+a18313,37,绝对Good区域,definitely_good,1.0
+a18380,37,绝对Good区域,definitely_good,1.0
+a18491,37,绝对Good区域,definitely_good,1.0
+a18561,37,绝对Good区域,definitely_good,1.0
+a18569,37,绝对Good区域,definitely_good,1.0
+a18588,37,绝对Good区域,definitely_good,1.0
+a18627,37,绝对Good区域,definitely_good,1.0
+a18646,37,绝对Good区域,definitely_good,1.0
+a18710,37,绝对Good区域,definitely_good,1.0
+a18739,37,绝对Good区域,definitely_good,1.0
+a18837,37,绝对Good区域,definitely_good,1.0
+a19350,37,绝对Good区域,definitely_good,1.0
+a19383,37,绝对Good区域,definitely_good,1.0
+a19386,37,绝对Good区域,definitely_good,1.0
+a19445,37,绝对Good区域,definitely_good,1.0
+a19506,37,绝对Good区域,definitely_good,1.0
+a19519,37,绝对Good区域,definitely_good,1.0
+a19525,37,绝对Good区域,definitely_good,1.0
+a19560,37,绝对Good区域,definitely_good,1.0
+a20153,37,绝对Good区域,definitely_good,1.0
+a20329,37,绝对Good区域,definitely_good,1.0
+a20403,37,绝对Good区域,definitely_good,1.0
+a20466,37,绝对Good区域,definitely_good,1.0
+a20555,37,绝对Good区域,definitely_good,1.0
+a20655,37,绝对Good区域,definitely_good,1.0
+a20657,37,绝对Good区域,definitely_good,1.0
+a20824,37,绝对Good区域,definitely_good,1.0
+a21050,37,绝对Good区域,definitely_good,1.0
+a21086,37,绝对Good区域,definitely_good,1.0
+a21278,37,绝对Good区域,definitely_good,1.0
+a21300,37,绝对Good区域,definitely_good,1.0
+a21321,37,绝对Good区域,definitely_good,1.0
+a21546,37,绝对Good区域,definitely_good,1.0
+a21597,37,绝对Good区域,definitely_good,1.0
+a21756,37,绝对Good区域,definitely_good,1.0
+a21823,37,绝对Good区域,definitely_good,1.0
+a21874,37,绝对Good区域,definitely_good,1.0
+a21878,37,绝对Good区域,definitely_good,1.0
+a22145,37,绝对Good区域,definitely_good,1.0
+a22194,37,绝对Good区域,definitely_good,1.0
+a22418,37,绝对Good区域,definitely_good,1.0
+a22468,37,绝对Good区域,definitely_good,1.0
+a22470,37,绝对Good区域,definitely_good,1.0
+a22490,37,绝对Good区域,definitely_good,1.0
+a22525,37,绝对Good区域,definitely_good,1.0
+a22786,37,绝对Good区域,definitely_good,1.0
+a22978,37,绝对Good区域,definitely_good,1.0
+a22981,37,绝对Good区域,definitely_good,1.0
+a23038,37,绝对Good区域,definitely_good,1.0
+a23067,37,绝对Good区域,definitely_good,1.0
+a23216,37,绝对Good区域,definitely_good,1.0
+a23233,37,绝对Good区域,definitely_good,1.0
+a23317,37,绝对Good区域,definitely_good,1.0
+a23376,37,绝对Good区域,definitely_good,1.0
+a23542,37,绝对Good区域,definitely_good,1.0
+a23737,37,绝对Good区域,definitely_good,1.0
+a23810,37,绝对Good区域,definitely_good,1.0
+a23884,37,绝对Good区域,definitely_good,1.0
+a23885,37,绝对Good区域,definitely_good,1.0
+a23925,37,绝对Good区域,definitely_good,1.0
+a23973,37,绝对Good区域,definitely_good,1.0
+a24028,37,绝对Good区域,definitely_good,1.0
+a24070,37,绝对Good区域,definitely_good,1.0
+a24190,37,绝对Good区域,definitely_good,1.0
+a24193,37,绝对Good区域,definitely_good,1.0
+a24203,37,绝对Good区域,definitely_good,1.0
+a24282,37,绝对Good区域,definitely_good,1.0
+a24318,37,绝对Good区域,definitely_good,1.0
+a24324,37,绝对Good区域,definitely_good,1.0
+a24374,37,绝对Good区域,definitely_good,1.0
+a24506,37,绝对Good区域,definitely_good,1.0
+a24562,37,绝对Good区域,definitely_good,1.0
+a24611,37,绝对Good区域,definitely_good,1.0
+a24690,37,绝对Good区域,definitely_good,1.0
+a24894,37,绝对Good区域,definitely_good,1.0
+a25025,37,绝对Good区域,definitely_good,1.0
+a25095,37,绝对Good区域,definitely_good,1.0
+a25147,37,绝对Good区域,definitely_good,1.0
+a25156,37,绝对Good区域,definitely_good,1.0
+a25166,37,绝对Good区域,definitely_good,1.0
+a25297,37,绝对Good区域,definitely_good,1.0
+a25473,37,绝对Good区域,definitely_good,1.0
+a25501,37,绝对Good区域,definitely_good,1.0
+a25519,37,绝对Good区域,definitely_good,1.0
+a25556,37,绝对Good区域,definitely_good,1.0
+a25796,37,绝对Good区域,definitely_good,1.0
+a25986,37,绝对Good区域,definitely_good,1.0
+a26083,37,绝对Good区域,definitely_good,1.0
+a26090,37,绝对Good区域,definitely_good,1.0
+a26095,37,绝对Good区域,definitely_good,1.0
+a26191,37,绝对Good区域,definitely_good,1.0
+a26257,37,绝对Good区域,definitely_good,1.0
+a26266,37,绝对Good区域,definitely_good,1.0
+a26275,37,绝对Good区域,definitely_good,1.0
+a26343,37,绝对Good区域,definitely_good,1.0
+a26365,37,绝对Good区域,definitely_good,1.0
+a26412,37,绝对Good区域,definitely_good,1.0
+a26439,37,绝对Good区域,definitely_good,1.0
+a26444,37,绝对Good区域,definitely_good,1.0
+a26641,37,绝对Good区域,definitely_good,1.0
+a26645,37,绝对Good区域,definitely_good,1.0
+a26919,37,绝对Good区域,definitely_good,1.0
+a26952,37,绝对Good区域,definitely_good,1.0
+a27001,37,绝对Good区域,definitely_good,1.0
+a27046,37,绝对Good区域,definitely_good,1.0
+a27074,37,绝对Good区域,definitely_good,1.0
+a27078,37,绝对Good区域,definitely_good,1.0
+a27163,37,绝对Good区域,definitely_good,1.0
+a27206,37,绝对Good区域,definitely_good,1.0
+a27381,37,绝对Good区域,definitely_good,1.0
+a27406,37,绝对Good区域,definitely_good,1.0
+a27527,37,绝对Good区域,definitely_good,1.0
+a27551,37,绝对Good区域,definitely_good,1.0
+a27569,37,绝对Good区域,definitely_good,1.0
+a27582,37,绝对Good区域,definitely_good,1.0
+a27682,37,绝对Good区域,definitely_good,1.0
+a27783,37,绝对Good区域,definitely_good,1.0
+a27922,37,绝对Good区域,definitely_good,1.0
+a27952,37,绝对Good区域,definitely_good,1.0
+a28061,37,绝对Good区域,definitely_good,1.0
+a28100,37,绝对Good区域,definitely_good,1.0
+a28119,37,绝对Good区域,definitely_good,1.0
+a28151,37,绝对Good区域,definitely_good,1.0
+a28172,37,绝对Good区域,definitely_good,1.0
+a28267,37,绝对Good区域,definitely_good,1.0
+a28283,37,绝对Good区域,definitely_good,1.0
+a28348,37,绝对Good区域,definitely_good,1.0
+a28375,37,绝对Good区域,definitely_good,1.0
+a28394,37,绝对Good区域,definitely_good,1.0
+a28516,37,绝对Good区域,definitely_good,1.0
+a28561,37,绝对Good区域,definitely_good,1.0
+a28682,37,绝对Good区域,definitely_good,1.0
+a28685,37,绝对Good区域,definitely_good,1.0
+a28795,37,绝对Good区域,definitely_good,1.0
+a28814,37,绝对Good区域,definitely_good,1.0
+a28831,37,绝对Good区域,definitely_good,1.0
+a28853,37,绝对Good区域,definitely_good,1.0
+a28958,37,绝对Good区域,definitely_good,1.0
+a28982,37,绝对Good区域,definitely_good,1.0
+a28989,37,绝对Good区域,definitely_good,1.0
+a29200,37,绝对Good区域,definitely_good,1.0
+a29201,37,绝对Good区域,definitely_good,1.0
+a29325,37,绝对Good区域,definitely_good,1.0
+a29382,37,绝对Good区域,definitely_good,1.0
+a29400,37,绝对Good区域,definitely_good,1.0
+a29672,37,绝对Good区域,definitely_good,1.0
+a29774,37,绝对Good区域,definitely_good,1.0
+a29805,37,绝对Good区域,definitely_good,1.0
+a29822,37,绝对Good区域,definitely_good,1.0
+a29906,37,绝对Good区域,definitely_good,1.0
+a29916,37,绝对Good区域,definitely_good,1.0
+a29932,37,绝对Good区域,definitely_good,1.0
+a29961,37,绝对Good区域,definitely_good,1.0
+a29999,37,绝对Good区域,definitely_good,1.0
+a30130,37,绝对Good区域,definitely_good,1.0
+a30231,37,绝对Good区域,definitely_good,1.0
+a30252,37,绝对Good区域,definitely_good,1.0
+a30307,37,绝对Good区域,definitely_good,1.0
+a30308,37,绝对Good区域,definitely_good,1.0
+a30332,37,绝对Good区域,definitely_good,1.0
+a30385,37,绝对Good区域,definitely_good,1.0
+a30430,37,绝对Good区域,definitely_good,1.0
+a30438,37,绝对Good区域,definitely_good,1.0
+a30618,37,绝对Good区域,definitely_good,1.0
+a30726,37,绝对Good区域,definitely_good,1.0
+a30958,37,绝对Good区域,definitely_good,1.0
+a31071,37,绝对Good区域,definitely_good,1.0
+a31087,37,绝对Good区域,definitely_good,1.0
+a31092,37,绝对Good区域,definitely_good,1.0
+a31213,37,绝对Good区域,definitely_good,1.0
+a31405,37,绝对Good区域,definitely_good,1.0
+a31419,37,绝对Good区域,definitely_good,1.0
+a31440,37,绝对Good区域,definitely_good,1.0
+a31487,37,绝对Good区域,definitely_good,1.0
+a00233,36,绝对Good区域,definitely_good,1.0
+a00316,36,绝对Good区域,definitely_good,1.0
+a00638,36,绝对Good区域,definitely_good,1.0
+a02753,36,绝对Good区域,definitely_good,1.0
+a03183,36,绝对Good区域,definitely_good,1.0
+a04334,36,绝对Good区域,definitely_good,1.0
+a04458,36,绝对Good区域,definitely_good,1.0
+a06470,36,绝对Good区域,definitely_good,1.0
+a08936,36,绝对Good区域,definitely_good,1.0
+a09080,36,绝对Good区域,definitely_good,1.0
+a09959,36,绝对Good区域,definitely_good,1.0
+a10091,36,绝对Good区域,definitely_good,1.0
+a10240,36,绝对Good区域,definitely_good,1.0
+a10657,36,绝对Good区域,definitely_good,1.0
+a12240,36,绝对Good区域,definitely_good,1.0
+a13989,36,绝对Good区域,definitely_good,1.0
+a14077,36,绝对Good区域,definitely_good,1.0
+a14959,36,绝对Good区域,definitely_good,1.0
+a17325,36,绝对Good区域,definitely_good,1.0
+a18353,36,绝对Good区域,definitely_good,1.0
+a18896,36,绝对Good区域,definitely_good,1.0
+a18936,36,绝对Good区域,definitely_good,1.0
+a19371,36,绝对Good区域,definitely_good,1.0
+a19653,36,绝对Good区域,definitely_good,1.0
+a20299,36,绝对Good区域,definitely_good,1.0
+a21136,36,绝对Good区域,definitely_good,1.0
+a21821,36,绝对Good区域,definitely_good,1.0
+a21865,36,绝对Good区域,definitely_good,1.0
+a23857,36,绝对Good区域,definitely_good,1.0
+a24018,36,绝对Good区域,definitely_good,1.0
+a24096,36,绝对Good区域,definitely_good,1.0
+a24308,36,绝对Good区域,definitely_good,1.0
+a24741,36,绝对Good区域,definitely_good,1.0
+a27512,36,绝对Good区域,definitely_good,1.0
+a28721,36,绝对Good区域,definitely_good,1.0
+a28986,36,绝对Good区域,definitely_good,1.0
+a29211,36,绝对Good区域,definitely_good,1.0
+a00357,35,绝对Good区域,definitely_good,1.0
+a01339,35,绝对Good区域,definitely_good,1.0
+a01574,35,绝对Good区域,definitely_good,1.0
+a01829,35,绝对Good区域,definitely_good,1.0
+a01936,35,绝对Good区域,definitely_good,1.0
+a02992,35,绝对Good区域,definitely_good,1.0
+a03574,35,绝对Good区域,definitely_good,1.0
+a04938,35,绝对Good区域,definitely_good,1.0
+a05248,35,绝对Good区域,definitely_good,1.0
+a06814,35,绝对Good区域,definitely_good,1.0
+a06965,35,绝对Good区域,definitely_good,1.0
+a07962,35,绝对Good区域,definitely_good,1.0
+a08260,35,绝对Good区域,definitely_good,1.0
+a08981,35,绝对Good区域,definitely_good,1.0
+a09495,35,绝对Good区域,definitely_good,1.0
+a10889,35,绝对Good区域,definitely_good,1.0
+a11176,35,绝对Good区域,definitely_good,1.0
+a12625,35,绝对Good区域,definitely_good,1.0
+a12806,35,绝对Good区域,definitely_good,1.0
+a14459,35,绝对Good区域,definitely_good,1.0
+a15279,35,绝对Good区域,definitely_good,1.0
+a18539,35,绝对Good区域,definitely_good,1.0
+a18825,35,绝对Good区域,definitely_good,1.0
+a18979,35,绝对Good区域,definitely_good,1.0
+a19166,35,绝对Good区域,definitely_good,1.0
+a19185,35,绝对Good区域,definitely_good,1.0
+a19203,35,绝对Good区域,definitely_good,1.0
+a19564,35,绝对Good区域,definitely_good,1.0
+a19583,35,绝对Good区域,definitely_good,1.0
+a19612,35,绝对Good区域,definitely_good,1.0
+a19841,35,绝对Good区域,definitely_good,1.0
+a20491,35,绝对Good区域,definitely_good,1.0
+a20626,35,绝对Good区域,definitely_good,1.0
+a20991,35,绝对Good区域,definitely_good,1.0
+a21692,35,绝对Good区域,definitely_good,1.0
+a22198,35,绝对Good区域,definitely_good,1.0
+a23240,35,绝对Good区域,definitely_good,1.0
+a24059,35,绝对Good区域,definitely_good,1.0
+a25767,35,绝对Good区域,definitely_good,1.0
+a26723,35,绝对Good区域,definitely_good,1.0
+a26920,35,绝对Good区域,definitely_good,1.0
+a29267,35,绝对Good区域,definitely_good,1.0
+a00170,34,绝对Good区域,definitely_good,1.0
+a00350,34,绝对Good区域,definitely_good,1.0
+a00458,34,绝对Good区域,definitely_good,1.0
+a00661,34,绝对Good区域,definitely_good,1.0
+a01063,34,绝对Good区域,definitely_good,1.0
+a01870,34,绝对Good区域,definitely_good,1.0
+a01993,34,绝对Good区域,definitely_good,1.0
+a03216,34,绝对Good区域,definitely_good,1.0
+a03727,34,绝对Good区域,definitely_good,1.0
+a04189,34,绝对Good区域,definitely_good,1.0
+a04232,34,绝对Good区域,definitely_good,1.0
+a04801,34,绝对Good区域,definitely_good,1.0
+a05974,34,绝对Good区域,definitely_good,1.0
+a06150,34,绝对Good区域,definitely_good,1.0
+a06659,34,绝对Good区域,definitely_good,1.0
+a06765,34,绝对Good区域,definitely_good,1.0
+a08098,34,绝对Good区域,definitely_good,1.0
+a08648,34,绝对Good区域,definitely_good,1.0
+a09833,34,绝对Good区域,definitely_good,1.0
+a10335,34,绝对Good区域,definitely_good,1.0
+a10647,34,绝对Good区域,definitely_good,1.0
+a11125,34,绝对Good区域,definitely_good,1.0
+a11535,34,绝对Good区域,definitely_good,1.0
+a12320,34,绝对Good区域,definitely_good,1.0
+a12381,34,绝对Good区域,definitely_good,1.0
+a12436,34,绝对Good区域,definitely_good,1.0
+a12530,34,绝对Good区域,definitely_good,1.0
+a12651,34,绝对Good区域,definitely_good,1.0
+a12738,34,绝对Good区域,definitely_good,1.0
+a12913,34,绝对Good区域,definitely_good,1.0
+a13811,34,绝对Good区域,definitely_good,1.0
+a14896,34,绝对Good区域,definitely_good,1.0
+a16593,34,绝对Good区域,definitely_good,1.0
+a17854,34,绝对Good区域,definitely_good,1.0
+a17918,34,绝对Good区域,definitely_good,1.0
+a18232,34,绝对Good区域,definitely_good,1.0
+a18503,34,绝对Good区域,definitely_good,1.0
+a18553,34,绝对Good区域,definitely_good,1.0
+a18665,34,绝对Good区域,definitely_good,1.0
+a18887,34,绝对Good区域,definitely_good,1.0
+a19322,34,绝对Good区域,definitely_good,1.0
+a19346,34,绝对Good区域,definitely_good,1.0
+a20003,34,绝对Good区域,definitely_good,1.0
+a20622,34,绝对Good区域,definitely_good,1.0
+a21573,34,绝对Good区域,definitely_good,1.0
+a22158,34,绝对Good区域,definitely_good,1.0
+a22692,34,绝对Good区域,definitely_good,1.0
+a24253,34,绝对Good区域,definitely_good,1.0
+a24511,34,绝对Good区域,definitely_good,1.0
+a24545,34,绝对Good区域,definitely_good,1.0
+a24981,34,绝对Good区域,definitely_good,1.0
+a25315,34,绝对Good区域,definitely_good,1.0
+a26050,34,绝对Good区域,definitely_good,1.0
+a26129,34,绝对Good区域,definitely_good,1.0
+a27045,34,绝对Good区域,definitely_good,1.0
+a27590,34,绝对Good区域,definitely_good,1.0
+a27826,34,绝对Good区域,definitely_good,1.0
+a27845,34,绝对Good区域,definitely_good,1.0
+a28393,34,绝对Good区域,definitely_good,1.0
+a30401,34,绝对Good区域,definitely_good,1.0
+a30975,34,绝对Good区域,definitely_good,1.0
+a01819,33,绝对Good区域,definitely_good,1.0
+a03676,33,绝对Good区域,definitely_good,1.0
+a05261,33,绝对Good区域,definitely_good,1.0
+a06098,33,绝对Good区域,definitely_good,1.0
+a08832,33,绝对Good区域,definitely_good,1.0
+a09480,33,绝对Good区域,definitely_good,1.0
+a10656,33,绝对Good区域,definitely_good,1.0
+a10786,33,绝对Good区域,definitely_good,1.0
+a11686,33,绝对Good区域,definitely_good,1.0
+a13179,33,绝对Good区域,definitely_good,1.0
+a13570,33,绝对Good区域,definitely_good,1.0
+a14278,33,绝对Good区域,definitely_good,1.0
+a14871,33,绝对Good区域,definitely_good,1.0
+a18023,33,绝对Good区域,definitely_good,1.0
+a19388,33,绝对Good区域,definitely_good,1.0
+a21488,33,绝对Good区域,definitely_good,1.0
+a22208,33,绝对Good区域,definitely_good,1.0
+a24884,33,绝对Good区域,definitely_good,1.0
+a25414,33,绝对Good区域,definitely_good,1.0
+a26208,33,绝对Good区域,definitely_good,1.0
+a26424,33,绝对Good区域,definitely_good,1.0
+a28442,33,绝对Good区域,definitely_good,1.0
+a30179,33,绝对Good区域,definitely_good,1.0
+a31315,33,绝对Good区域,definitely_good,1.0
+a00454,32,绝对Good区域,definitely_good,1.0
+a02934,32,绝对Good区域,definitely_good,1.0
+a04062,32,绝对Good区域,definitely_good,1.0
+a04483,32,绝对Good区域,definitely_good,1.0
+a07411,32,绝对Good区域,definitely_good,1.0
+a08558,32,绝对Good区域,definitely_good,1.0
+a08677,32,绝对Good区域,definitely_good,1.0
+a11307,32,绝对Good区域,definitely_good,1.0
+a12904,32,绝对Good区域,definitely_good,1.0
+a13377,32,绝对Good区域,definitely_good,1.0
+a15653,32,绝对Good区域,definitely_good,1.0
+a18072,32,绝对Good区域,definitely_good,1.0
+a19422,32,绝对Good区域,definitely_good,1.0
+a19607,32,绝对Good区域,definitely_good,1.0
+a20477,32,绝对Good区域,definitely_good,1.0
+a20869,32,绝对Good区域,definitely_good,1.0
+a21235,32,绝对Good区域,definitely_good,1.0
+a22032,32,绝对Good区域,definitely_good,1.0
+a23384,32,绝对Good区域,definitely_good,1.0
+a23723,32,绝对Good区域,definitely_good,1.0
+a25880,32,绝对Good区域,definitely_good,1.0
+a26697,32,绝对Good区域,definitely_good,1.0
+a30491,32,绝对Good区域,definitely_good,1.0
+a01752,31,绝对Good区域,definitely_good,1.0
+a02198,31,绝对Good区域,definitely_good,1.0
+a03699,31,绝对Good区域,definitely_good,1.0
+a04711,31,绝对Good区域,definitely_good,1.0
+a05678,31,绝对Good区域,definitely_good,1.0
+a05799,31,绝对Good区域,definitely_good,1.0
+a07260,31,绝对Good区域,definitely_good,1.0
+a08541,31,绝对Good区域,definitely_good,1.0
+a09096,31,绝对Good区域,definitely_good,1.0
+a12924,31,绝对Good区域,definitely_good,1.0
+a14137,31,绝对Good区域,definitely_good,1.0
+a17180,31,绝对Good区域,definitely_good,1.0
+a17263,31,绝对Good区域,definitely_good,1.0
+a17304,31,绝对Good区域,definitely_good,1.0
+a17670,31,绝对Good区域,definitely_good,1.0
+a19392,31,绝对Good区域,definitely_good,1.0
+a21394,31,绝对Good区域,definitely_good,1.0
+a22795,31,绝对Good区域,definitely_good,1.0
+a24111,31,绝对Good区域,definitely_good,1.0
+a25987,31,绝对Good区域,definitely_good,1.0
+a26339,31,绝对Good区域,definitely_good,1.0
+a26466,31,绝对Good区域,definitely_good,1.0
+a00404,30,绝对Good区域,definitely_good,1.0
+a01154,30,绝对Good区域,definitely_good,1.0
+a01390,30,绝对Good区域,definitely_good,1.0
+a04056,30,绝对Good区域,definitely_good,1.0
+a07723,30,绝对Good区域,definitely_good,1.0
+a08816,30,绝对Good区域,definitely_good,1.0
+a11077,30,绝对Good区域,definitely_good,1.0
+a11327,30,绝对Good区域,definitely_good,1.0
+a12325,30,绝对Good区域,definitely_good,1.0
+a18523,30,绝对Good区域,definitely_good,1.0
+a19026,30,绝对Good区域,definitely_good,1.0
+a19391,30,绝对Good区域,definitely_good,1.0
+a20942,30,绝对Good区域,definitely_good,1.0
+a21826,30,绝对Good区域,definitely_good,1.0
+a25663,30,绝对Good区域,definitely_good,1.0
+a26026,30,绝对Good区域,definitely_good,1.0
+a26300,30,绝对Good区域,definitely_good,1.0
+a07786,29,绝对Good区域,definitely_good,1.0
+a08387,29,绝对Good区域,definitely_good,1.0
+a14840,29,绝对Good区域,definitely_good,1.0
+a16986,29,绝对Good区域,definitely_good,1.0
+a17253,29,绝对Good区域,definitely_good,1.0
+a24344,29,绝对Good区域,definitely_good,1.0
+a25191,29,绝对Good区域,definitely_good,1.0
+a26180,29,绝对Good区域,definitely_good,1.0
+a28880,29,绝对Good区域,definitely_good,1.0
+a00714,27,绝对Good区域,definitely_good,1.0
+a04194,27,绝对Good区域,definitely_good,1.0
+a11898,27,绝对Good区域,definitely_good,1.0
+a15464,27,绝对Good区域,definitely_good,1.0
+a20025,27,绝对Good区域,definitely_good,1.0
+a23037,27,绝对Good区域,definitely_good,1.0
+a23379,27,绝对Good区域,definitely_good,1.0
+a06251,26,绝对Good区域,definitely_good,1.0
+a14886,26,绝对Good区域,definitely_good,1.0
+a16325,26,绝对Good区域,definitely_good,1.0
+a20549,26,绝对Good区域,definitely_good,1.0
+a27140,26,绝对Good区域,definitely_good,1.0
+a02614,25,绝对Good区域,definitely_good,1.0
+a03385,25,绝对Good区域,definitely_good,1.0
+a09085,25,绝对Good区域,definitely_good,1.0
+a09587,25,绝对Good区域,definitely_good,1.0
+a09660,25,绝对Good区域,definitely_good,1.0
+a11177,25,绝对Good区域,definitely_good,1.0
+a14815,25,绝对Good区域,definitely_good,1.0
+a15057,25,绝对Good区域,definitely_good,1.0
+a16243,25,绝对Good区域,definitely_good,1.0
+a16267,25,绝对Good区域,definitely_good,1.0
+a17105,25,绝对Good区域,definitely_good,1.0
+a18517,25,绝对Good区域,definitely_good,1.0
+a19659,25,绝对Good区域,definitely_good,1.0
+a20830,25,绝对Good区域,definitely_good,1.0
+a23473,25,绝对Good区域,definitely_good,1.0
+a27843,25,绝对Good区域,definitely_good,1.0
+a28353,25,绝对Good区域,definitely_good,1.0
+a28860,25,绝对Good区域,definitely_good,1.0
+a03937,24,绝对Good区域,definitely_good,1.0
+a04827,24,绝对Good区域,definitely_good,1.0
+a09411,24,绝对Good区域,definitely_good,1.0
+a10552,24,绝对Good区域,definitely_good,1.0
+a16965,24,绝对Good区域,definitely_good,1.0
+a17602,24,绝对Good区域,definitely_good,1.0
+a21150,24,绝对Good区域,definitely_good,1.0
+a21750,24,绝对Good区域,definitely_good,1.0
+a23876,24,绝对Good区域,definitely_good,1.0
+a24475,24,绝对Good区域,definitely_good,1.0
+a24990,24,绝对Good区域,definitely_good,1.0
+a00979,23,绝对Good区域,definitely_good,1.0
+a01305,23,绝对Good区域,definitely_good,1.0
+a01319,23,绝对Good区域,definitely_good,1.0
+a02735,23,绝对Good区域,definitely_good,1.0
+a03213,23,绝对Good区域,definitely_good,1.0
+a18862,23,绝对Good区域,definitely_good,1.0
+a21009,23,绝对Good区域,definitely_good,1.0
+a21526,23,绝对Good区域,definitely_good,1.0
+a22931,23,绝对Good区域,definitely_good,1.0
+a24121,23,绝对Good区域,definitely_good,1.0
+a28962,23,绝对Good区域,definitely_good,1.0
+a02560,22,绝对Good区域,definitely_good,1.0
+a04539,22,绝对Good区域,definitely_good,1.0
+a08866,22,绝对Good区域,definitely_good,1.0
+a09485,22,绝对Good区域,definitely_good,1.0
+a09493,22,绝对Good区域,definitely_good,1.0
+a09737,22,绝对Good区域,definitely_good,1.0
+a11525,22,绝对Good区域,definitely_good,1.0
+a15025,22,绝对Good区域,definitely_good,1.0
+a15509,22,绝对Good区域,definitely_good,1.0
+a15515,22,绝对Good区域,definitely_good,1.0
+a15985,22,绝对Good区域,definitely_good,1.0
+a18271,22,绝对Good区域,definitely_good,1.0
+a19081,22,绝对Good区域,definitely_good,1.0
+a19106,22,绝对Good区域,definitely_good,1.0
+a19380,22,绝对Good区域,definitely_good,1.0
+a20464,22,绝对Good区域,definitely_good,1.0
+a20676,22,绝对Good区域,definitely_good,1.0
+a20809,22,绝对Good区域,definitely_good,1.0
+a21170,22,绝对Good区域,definitely_good,1.0
+a21512,22,绝对Good区域,definitely_good,1.0
+a24589,22,绝对Good区域,definitely_good,1.0
+a00531,21,绝对Good区域,definitely_good,1.0
+a11707,21,绝对Good区域,definitely_good,1.0
+a15470,21,绝对Good区域,definitely_good,1.0
+a19040,21,绝对Good区域,definitely_good,1.0
+a24612,21,绝对Good区域,definitely_good,1.0
+a25790,21,绝对Good区域,definitely_good,1.0
+a26962,21,绝对Good区域,definitely_good,1.0
+a29449,21,绝对Good区域,definitely_good,1.0
+a29733,21,绝对Good区域,definitely_good,1.0
+a30145,21,绝对Good区域,definitely_good,1.0
+a00134,20,绝对Good区域,definitely_good,1.0
+a02812,20,绝对Good区域,definitely_good,1.0
+a03576,20,绝对Good区域,definitely_good,1.0
+a07398,20,绝对Good区域,definitely_good,1.0
+a08841,20,绝对Good区域,definitely_good,1.0
+a08848,20,绝对Good区域,definitely_good,1.0
+a09043,20,绝对Good区域,definitely_good,1.0
+a13194,20,绝对Good区域,definitely_good,1.0
+a15342,20,绝对Good区域,definitely_good,1.0
+a19915,20,绝对Good区域,definitely_good,1.0
+a23818,20,绝对Good区域,definitely_good,1.0
+a26667,20,绝对Good区域,definitely_good,1.0
+a27486,20,绝对Good区域,definitely_good,1.0
+a30405,20,绝对Good区域,definitely_good,1.0
+a30446,20,绝对Good区域,definitely_good,1.0
+a07288,19,绝对Good区域,definitely_good,1.0
+a07376,19,绝对Good区域,definitely_good,1.0
+a07916,19,绝对Good区域,definitely_good,1.0
+a12573,19,绝对Good区域,definitely_good,1.0
+a16615,19,绝对Good区域,definitely_good,1.0
+a19073,19,绝对Good区域,definitely_good,1.0
+a20137,19,绝对Good区域,definitely_good,1.0
+a27396,19,绝对Good区域,definitely_good,1.0
+a27761,19,绝对Good区域,definitely_good,1.0
+a27899,19,绝对Good区域,definitely_good,1.0
+a00094,18,绝对Good区域,definitely_good,1.0
+a02859,18,绝对Good区域,definitely_good,1.0
+a06422,18,绝对Good区域,definitely_good,1.0
+a06709,18,绝对Good区域,definitely_good,1.0
+a07875,18,绝对Good区域,definitely_good,1.0
+a08939,18,绝对Good区域,definitely_good,1.0
+a09548,18,绝对Good区域,definitely_good,1.0
+a13378,18,绝对Good区域,definitely_good,1.0
+a15164,18,绝对Good区域,definitely_good,1.0
+a15180,18,绝对Good区域,definitely_good,1.0
+a15983,18,绝对Good区域,definitely_good,1.0
+a19080,18,绝对Good区域,definitely_good,1.0
+a20181,18,绝对Good区域,definitely_good,1.0
+a23199,18,绝对Good区域,definitely_good,1.0
+a26863,18,绝对Good区域,definitely_good,1.0
+a27611,18,绝对Good区域,definitely_good,1.0
+a28256,18,绝对Good区域,definitely_good,1.0
+a29515,18,绝对Good区域,definitely_good,1.0
+a00095,17,绝对Good区域,definitely_good,1.0
+a00555,17,绝对Good区域,definitely_good,1.0
+a01991,17,绝对Good区域,definitely_good,1.0
+a02171,17,绝对Good区域,definitely_good,1.0
+a02715,17,绝对Good区域,definitely_good,1.0
+a03283,17,绝对Good区域,definitely_good,1.0
+a03296,17,绝对Good区域,definitely_good,1.0
+a03375,17,绝对Good区域,definitely_good,1.0
+a03601,17,绝对Good区域,definitely_good,1.0
+a03864,17,绝对Good区域,definitely_good,1.0
+a03982,17,绝对Good区域,definitely_good,1.0
+a04066,17,绝对Good区域,definitely_good,1.0
+a04246,17,绝对Good区域,definitely_good,1.0
+a04609,17,绝对Good区域,definitely_good,1.0
+a04694,17,绝对Good区域,definitely_good,1.0
+a05001,17,绝对Good区域,definitely_good,1.0
+a05067,17,绝对Good区域,definitely_good,1.0
+a05218,17,绝对Good区域,definitely_good,1.0
+a05852,17,绝对Good区域,definitely_good,1.0
+a06321,17,绝对Good区域,definitely_good,1.0
+a06452,17,绝对Good区域,definitely_good,1.0
+a06564,17,绝对Good区域,definitely_good,1.0
+a06604,17,绝对Good区域,definitely_good,1.0
+a06657,17,绝对Good区域,definitely_good,1.0
+a06931,17,绝对Good区域,definitely_good,1.0
+a07089,17,绝对Good区域,definitely_good,1.0
+a08090,17,绝对Good区域,definitely_good,1.0
+a08202,17,绝对Good区域,definitely_good,1.0
+a08284,17,绝对Good区域,definitely_good,1.0
+a08411,17,绝对Good区域,definitely_good,1.0
+a08578,17,绝对Good区域,definitely_good,1.0
+a08771,17,绝对Good区域,definitely_good,1.0
+a09398,17,绝对Good区域,definitely_good,1.0
+a09637,17,绝对Good区域,definitely_good,1.0
+a10422,17,绝对Good区域,definitely_good,1.0
+a10585,17,绝对Good区域,definitely_good,1.0
+a10954,17,绝对Good区域,definitely_good,1.0
+a11877,17,绝对Good区域,definitely_good,1.0
+a12557,17,绝对Good区域,definitely_good,1.0
+a12576,17,绝对Good区域,definitely_good,1.0
+a12769,17,绝对Good区域,definitely_good,1.0
+a13137,17,绝对Good区域,definitely_good,1.0
+a13565,17,绝对Good区域,definitely_good,1.0
+a14469,17,绝对Good区域,definitely_good,1.0
+a15052,17,绝对Good区域,definitely_good,1.0
+a15211,17,绝对Good区域,definitely_good,1.0
+a15476,17,绝对Good区域,definitely_good,1.0
+a15921,17,绝对Good区域,definitely_good,1.0
+a15994,17,绝对Good区域,definitely_good,1.0
+a16523,17,绝对Good区域,definitely_good,1.0
+a16901,17,绝对Good区域,definitely_good,1.0
+a17328,17,绝对Good区域,definitely_good,1.0
+a17369,17,绝对Good区域,definitely_good,1.0
+a17435,17,绝对Good区域,definitely_good,1.0
+a17848,17,绝对Good区域,definitely_good,1.0
+a18071,17,绝对Good区域,definitely_good,1.0
+a18078,17,绝对Good区域,definitely_good,1.0
+a19195,17,绝对Good区域,definitely_good,1.0
+a19488,17,绝对Good区域,definitely_good,1.0
+a19849,17,绝对Good区域,definitely_good,1.0
+a19877,17,绝对Good区域,definitely_good,1.0
+a20484,17,绝对Good区域,definitely_good,1.0
+a21030,17,绝对Good区域,definitely_good,1.0
+a21094,17,绝对Good区域,definitely_good,1.0
+a21244,17,绝对Good区域,definitely_good,1.0
+a21358,17,绝对Good区域,definitely_good,1.0
+a21765,17,绝对Good区域,definitely_good,1.0
+a22024,17,绝对Good区域,definitely_good,1.0
+a22147,17,绝对Good区域,definitely_good,1.0
+a22162,17,绝对Good区域,definitely_good,1.0
+a22345,17,绝对Good区域,definitely_good,1.0
+a22441,17,绝对Good区域,definitely_good,1.0
+a22570,17,绝对Good区域,definitely_good,1.0
+a22613,17,绝对Good区域,definitely_good,1.0
+a22854,17,绝对Good区域,definitely_good,1.0
+a23815,17,绝对Good区域,definitely_good,1.0
+a23921,17,绝对Good区域,definitely_good,1.0
+a23935,17,绝对Good区域,definitely_good,1.0
+a23947,17,绝对Good区域,definitely_good,1.0
+a23965,17,绝对Good区域,definitely_good,1.0
+a24987,17,绝对Good区域,definitely_good,1.0
+a25122,17,绝对Good区域,definitely_good,1.0
+a25204,17,绝对Good区域,definitely_good,1.0
+a25640,17,绝对Good区域,definitely_good,1.0
+a25652,17,绝对Good区域,definitely_good,1.0
+a25879,17,绝对Good区域,definitely_good,1.0
+a25883,17,绝对Good区域,definitely_good,1.0
+a26325,17,绝对Good区域,definitely_good,1.0
+a26720,17,绝对Good区域,definitely_good,1.0
+a26791,17,绝对Good区域,definitely_good,1.0
+a27308,17,绝对Good区域,definitely_good,1.0
+a27411,17,绝对Good区域,definitely_good,1.0
+a27430,17,绝对Good区域,definitely_good,1.0
+a27637,17,绝对Good区域,definitely_good,1.0
+a28121,17,绝对Good区域,definitely_good,1.0
+a28273,17,绝对Good区域,definitely_good,1.0
+a28610,17,绝对Good区域,definitely_good,1.0
+a28800,17,绝对Good区域,definitely_good,1.0
+a29719,17,绝对Good区域,definitely_good,1.0
+a30287,17,绝对Good区域,definitely_good,1.0
+a30290,17,绝对Good区域,definitely_good,1.0
+a30882,17,绝对Good区域,definitely_good,1.0
+a31035,17,绝对Good区域,definitely_good,1.0
+a31446,17,绝对Good区域,definitely_good,1.0
+a00518,16,绝对Good区域,definitely_good,1.0
+a03343,16,绝对Good区域,definitely_good,1.0
+a03441,16,绝对Good区域,definitely_good,1.0
+a03824,16,绝对Good区域,definitely_good,1.0
+a04603,16,绝对Good区域,definitely_good,1.0
+a04881,16,绝对Good区域,definitely_good,1.0
+a06702,16,绝对Good区域,definitely_good,1.0
+a07933,16,绝对Good区域,definitely_good,1.0
+a09301,16,绝对Good区域,definitely_good,1.0
+a10346,16,绝对Good区域,definitely_good,1.0
+a11118,16,绝对Good区域,definitely_good,1.0
+a13084,16,绝对Good区域,definitely_good,1.0
+a13414,16,绝对Good区域,definitely_good,1.0
+a14489,16,绝对Good区域,definitely_good,1.0
+a14650,16,绝对Good区域,definitely_good,1.0
+a14903,16,绝对Good区域,definitely_good,1.0
+a14921,16,绝对Good区域,definitely_good,1.0
+a14942,16,绝对Good区域,definitely_good,1.0
+a15528,16,绝对Good区域,definitely_good,1.0
+a15811,16,绝对Good区域,definitely_good,1.0
+a16058,16,绝对Good区域,definitely_good,1.0
+a17772,16,绝对Good区域,definitely_good,1.0
+a19717,16,绝对Good区域,definitely_good,1.0
+a19781,16,绝对Good区域,definitely_good,1.0
+a20083,16,绝对Good区域,definitely_good,1.0
+a20101,16,绝对Good区域,definitely_good,1.0
+a23164,16,绝对Good区域,definitely_good,1.0
+a23404,16,绝对Good区域,definitely_good,1.0
+a24897,16,绝对Good区域,definitely_good,1.0
+a25051,16,绝对Good区域,definitely_good,1.0
+a25242,16,绝对Good区域,definitely_good,1.0
+a26135,16,绝对Good区域,definitely_good,1.0
+a26308,16,绝对Good区域,definitely_good,1.0
+a26336,16,绝对Good区域,definitely_good,1.0
+a27260,16,绝对Good区域,definitely_good,1.0
+a27384,16,绝对Good区域,definitely_good,1.0
+a28488,16,绝对Good区域,definitely_good,1.0
+a29218,16,绝对Good区域,definitely_good,1.0
+a29857,16,绝对Good区域,definitely_good,1.0
+a00165,15,绝对Good区域,definitely_good,1.0
+a01232,15,绝对Good区域,definitely_good,1.0
+a02921,15,绝对Good区域,definitely_good,1.0
+a03025,15,绝对Good区域,definitely_good,1.0
+a03348,15,绝对Good区域,definitely_good,1.0
+a03863,15,绝对Good区域,definitely_good,1.0
+a04155,15,绝对Good区域,definitely_good,1.0
+a05141,15,绝对Good区域,definitely_good,1.0
+a08565,15,绝对Good区域,definitely_good,1.0
+a08675,15,绝对Good区域,definitely_good,1.0
+a09084,15,绝对Good区域,definitely_good,1.0
+a11706,15,绝对Good区域,definitely_good,1.0
+a11766,15,绝对Good区域,definitely_good,1.0
+a12594,15,绝对Good区域,definitely_good,1.0
+a12937,15,绝对Good区域,definitely_good,1.0
+a15805,15,绝对Good区域,definitely_good,1.0
+a15885,15,绝对Good区域,definitely_good,1.0
+a17870,15,绝对Good区域,definitely_good,1.0
+a18188,15,绝对Good区域,definitely_good,1.0
+a19414,15,绝对Good区域,definitely_good,1.0
+a20069,15,绝对Good区域,definitely_good,1.0
+a20255,15,绝对Good区域,definitely_good,1.0
+a22130,15,绝对Good区域,definitely_good,1.0
+a22997,15,绝对Good区域,definitely_good,1.0
+a23541,15,绝对Good区域,definitely_good,1.0
+a23917,15,绝对Good区域,definitely_good,1.0
+a25852,15,绝对Good区域,definitely_good,1.0
+a25980,15,绝对Good区域,definitely_good,1.0
+a26262,15,绝对Good区域,definitely_good,1.0
+a29238,15,绝对Good区域,definitely_good,1.0
+a30741,15,绝对Good区域,definitely_good,1.0
+a31294,15,绝对Good区域,definitely_good,1.0
+a31424,15,绝对Good区域,definitely_good,1.0
+a31438,15,绝对Good区域,definitely_good,1.0
+a00175,14,绝对Good区域,definitely_good,1.0
+a00264,14,绝对Good区域,definitely_good,1.0
+a02990,14,绝对Good区域,definitely_good,1.0
+a02997,14,绝对Good区域,definitely_good,1.0
+a03329,14,绝对Good区域,definitely_good,1.0
+a05617,14,绝对Good区域,definitely_good,1.0
+a09388,14,绝对Good区域,definitely_good,1.0
+a11437,14,绝对Good区域,definitely_good,1.0
+a14222,14,绝对Good区域,definitely_good,1.0
+a16180,14,绝对Good区域,definitely_good,1.0
+a16948,14,绝对Good区域,definitely_good,1.0
+a17692,14,绝对Good区域,definitely_good,1.0
+a18456,14,绝对Good区域,definitely_good,1.0
+a22839,14,绝对Good区域,definitely_good,1.0
+a25104,14,绝对Good区域,definitely_good,1.0
+a26718,14,绝对Good区域,definitely_good,1.0
+a27435,14,绝对Good区域,definitely_good,1.0
+a28237,14,绝对Good区域,definitely_good,1.0
+a29832,14,绝对Good区域,definitely_good,1.0
+a30155,14,绝对Good区域,definitely_good,1.0
+a30558,14,绝对Good区域,definitely_good,1.0
+a01043,13,绝对Good区域,definitely_good,1.0
+a01672,13,绝对Good区域,definitely_good,1.0
+a01894,13,绝对Good区域,definitely_good,1.0
+a02088,13,绝对Good区域,definitely_good,1.0
+a02526,13,绝对Good区域,definitely_good,1.0
+a03896,13,绝对Good区域,definitely_good,1.0
+a04800,13,绝对Good区域,definitely_good,1.0
+a06169,13,绝对Good区域,definitely_good,1.0
+a06569,13,绝对Good区域,definitely_good,1.0
+a07861,13,绝对Good区域,definitely_good,1.0
+a10105,13,绝对Good区域,definitely_good,1.0
+a11154,13,绝对Good区域,definitely_good,1.0
+a12107,13,绝对Good区域,definitely_good,1.0
+a12778,13,绝对Good区域,definitely_good,1.0
+a13832,13,绝对Good区域,definitely_good,1.0
+a14657,13,绝对Good区域,definitely_good,1.0
+a14879,13,绝对Good区域,definitely_good,1.0
+a14973,13,绝对Good区域,definitely_good,1.0
+a15893,13,绝对Good区域,definitely_good,1.0
+a16177,13,绝对Good区域,definitely_good,1.0
+a17995,13,绝对Good区域,definitely_good,1.0
+a18390,13,绝对Good区域,definitely_good,1.0
+a18920,13,绝对Good区域,definitely_good,1.0
+a19462,13,绝对Good区域,definitely_good,1.0
+a19494,13,绝对Good区域,definitely_good,1.0
+a19801,13,绝对Good区域,definitely_good,1.0
+a21659,13,绝对Good区域,definitely_good,1.0
+a22273,13,绝对Good区域,definitely_good,1.0
+a22522,13,绝对Good区域,definitely_good,1.0
+a23827,13,绝对Good区域,definitely_good,1.0
+a24246,13,绝对Good区域,definitely_good,1.0
+a25181,13,绝对Good区域,definitely_good,1.0
+a26934,13,绝对Good区域,definitely_good,1.0
+a27618,13,绝对Good区域,definitely_good,1.0
+a28036,13,绝对Good区域,definitely_good,1.0
+a28112,13,绝对Good区域,definitely_good,1.0
+a28863,13,绝对Good区域,definitely_good,1.0
+a02617,12,绝对Good区域,definitely_good,1.0
+a04005,12,绝对Good区域,definitely_good,1.0
+a04511,12,绝对Good区域,definitely_good,1.0
+a06010,12,绝对Good区域,definitely_good,1.0
+a08346,12,绝对Good区域,definitely_good,1.0
+a10615,12,绝对Good区域,definitely_good,1.0
+a10803,12,绝对Good区域,definitely_good,1.0
+a11502,12,绝对Good区域,definitely_good,1.0
+a13173,12,绝对Good区域,definitely_good,1.0
+a14926,12,绝对Good区域,definitely_good,1.0
+a16105,12,绝对Good区域,definitely_good,1.0
+a16723,12,绝对Good区域,definitely_good,1.0
+a16728,12,绝对Good区域,definitely_good,1.0
+a17074,12,绝对Good区域,definitely_good,1.0
+a18054,12,绝对Good区域,definitely_good,1.0
+a20284,12,绝对Good区域,definitely_good,1.0
+a22259,12,绝对Good区域,definitely_good,1.0
+a22281,12,绝对Good区域,definitely_good,1.0
+a22538,12,绝对Good区域,definitely_good,1.0
+a22608,12,绝对Good区域,definitely_good,1.0
+a24244,12,绝对Good区域,definitely_good,1.0
+a25295,12,绝对Good区域,definitely_good,1.0
+a25489,12,绝对Good区域,definitely_good,1.0
+a26752,12,绝对Good区域,definitely_good,1.0
+a27421,12,绝对Good区域,definitely_good,1.0
+a28691,12,绝对Good区域,definitely_good,1.0
+a29304,12,绝对Good区域,definitely_good,1.0
+a30562,12,绝对Good区域,definitely_good,1.0
+a31322,12,绝对Good区域,definitely_good,1.0
+a00009,11,绝对Good区域,definitely_good,1.0
+a01323,11,绝对Good区域,definitely_good,1.0
+a03293,11,绝对Good区域,definitely_good,1.0
+a03330,11,绝对Good区域,definitely_good,1.0
+a04301,11,绝对Good区域,definitely_good,1.0
+a05703,11,绝对Good区域,definitely_good,1.0
+a06330,11,绝对Good区域,definitely_good,1.0
+a08072,11,绝对Good区域,definitely_good,1.0
+a09675,11,绝对Good区域,definitely_good,1.0
+a10163,11,绝对Good区域,definitely_good,1.0
+a10677,11,绝对Good区域,definitely_good,1.0
+a12883,11,绝对Good区域,definitely_good,1.0
+a13572,11,绝对Good区域,definitely_good,1.0
+a15150,11,绝对Good区域,definitely_good,1.0
+a16281,11,绝对Good区域,definitely_good,1.0
+a16792,11,绝对Good区域,definitely_good,1.0
+a17664,11,绝对Good区域,definitely_good,1.0
+a19066,11,绝对Good区域,definitely_good,1.0
+a20768,11,绝对Good区域,definitely_good,1.0
+a22878,11,绝对Good区域,definitely_good,1.0
+a24726,11,绝对Good区域,definitely_good,1.0
+a26737,11,绝对Good区域,definitely_good,1.0
+a27031,11,绝对Good区域,definitely_good,1.0
+a27557,11,绝对Good区域,definitely_good,1.0
+a31214,11,绝对Good区域,definitely_good,1.0
+a02798,10,绝对Good区域,definitely_good,1.0
+a05019,10,绝对Good区域,definitely_good,1.0
+a05309,10,绝对Good区域,definitely_good,1.0
+a07062,10,绝对Good区域,definitely_good,1.0
+a11935,10,绝对Good区域,definitely_good,1.0
+a12108,10,绝对Good区域,definitely_good,1.0
+a15412,10,绝对Good区域,definitely_good,1.0
+a16521,10,绝对Good区域,definitely_good,1.0
+a19219,10,绝对Good区域,definitely_good,1.0
+a20449,10,绝对Good区域,definitely_good,1.0
+a23241,10,绝对Good区域,definitely_good,1.0
+a23356,10,绝对Good区域,definitely_good,1.0
+a25500,10,绝对Good区域,definitely_good,1.0
+a26671,10,绝对Good区域,definitely_good,1.0
+a27095,10,绝对Good区域,definitely_good,1.0
+a28650,10,绝对Good区域,definitely_good,1.0
+a29584,10,绝对Good区域,definitely_good,1.0
+a29715,10,绝对Good区域,definitely_good,1.0
+a30486,10,绝对Good区域,definitely_good,1.0
+a00819,9,绝对Good区域,definitely_good,1.0
+a01459,9,绝对Good区域,definitely_good,1.0
+a04284,9,绝对Good区域,definitely_good,1.0
+a04430,9,绝对Good区域,definitely_good,1.0
+a04618,9,绝对Good区域,definitely_good,1.0
+a05044,9,绝对Good区域,definitely_good,1.0
+a06177,9,绝对Good区域,definitely_good,1.0
+a07138,9,绝对Good区域,definitely_good,1.0
+a07176,9,绝对Good区域,definitely_good,1.0
+a07305,9,绝对Good区域,definitely_good,1.0
+a07480,9,绝对Good区域,definitely_good,1.0
+a07550,9,绝对Good区域,definitely_good,1.0
+a08133,9,绝对Good区域,definitely_good,1.0
+a09097,9,绝对Good区域,definitely_good,1.0
+a09135,9,绝对Good区域,definitely_good,1.0
+a10366,9,绝对Good区域,definitely_good,1.0
+a10969,9,绝对Good区域,definitely_good,1.0
+a14206,9,绝对Good区域,definitely_good,1.0
+a15223,9,绝对Good区域,definitely_good,1.0
+a16134,9,绝对Good区域,definitely_good,1.0
+a17923,9,绝对Good区域,definitely_good,1.0
+a21246,9,绝对Good区域,definitely_good,1.0
+a21264,9,绝对Good区域,definitely_good,1.0
+a21340,9,绝对Good区域,definitely_good,1.0
+a22244,9,绝对Good区域,definitely_good,1.0
+a22547,9,绝对Good区域,definitely_good,1.0
+a24062,9,绝对Good区域,definitely_good,1.0
+a26124,9,绝对Good区域,definitely_good,1.0
+a26935,9,绝对Good区域,definitely_good,1.0
+a27906,9,绝对Good区域,definitely_good,1.0
+a00297,8,绝对Good区域,definitely_good,1.0
+a01286,8,绝对Good区域,definitely_good,1.0
+a01563,8,绝对Good区域,definitely_good,1.0
+a01787,8,绝对Good区域,definitely_good,1.0
+a02404,8,绝对Good区域,definitely_good,1.0
+a04803,8,绝对Good区域,definitely_good,1.0
+a04966,8,绝对Good区域,definitely_good,1.0
+a06712,8,绝对Good区域,definitely_good,1.0
+a07161,8,绝对Good区域,definitely_good,1.0
+a07385,8,绝对Good区域,definitely_good,1.0
+a08325,8,绝对Good区域,definitely_good,1.0
+a08737,8,绝对Good区域,definitely_good,1.0
+a10753,8,绝对Good区域,definitely_good,1.0
+a11587,8,绝对Good区域,definitely_good,1.0
+a13385,8,绝对Good区域,definitely_good,1.0
+a15938,8,绝对Good区域,definitely_good,1.0
+a16187,8,绝对Good区域,definitely_good,1.0
+a17265,8,绝对Good区域,definitely_good,1.0
+a17385,8,绝对Good区域,definitely_good,1.0
+a17619,8,绝对Good区域,definitely_good,1.0
+a18492,8,绝对Good区域,definitely_good,1.0
+a18724,8,绝对Good区域,definitely_good,1.0
+a22051,8,绝对Good区域,definitely_good,1.0
+a22120,8,绝对Good区域,definitely_good,1.0
+a22173,8,绝对Good区域,definitely_good,1.0
+a23744,8,绝对Good区域,definitely_good,1.0
+a25711,8,绝对Good区域,definitely_good,1.0
+a26361,8,绝对Good区域,definitely_good,1.0
+a26796,8,绝对Good区域,definitely_good,1.0
+a27263,8,绝对Good区域,definitely_good,1.0
+a29084,8,绝对Good区域,definitely_good,1.0
+a29347,8,绝对Good区域,definitely_good,1.0
+a30098,8,绝对Good区域,definitely_good,1.0
+a30361,8,绝对Good区域,definitely_good,1.0
+a00385,7,绝对Good区域,definitely_good,1.0
+a01255,7,绝对Good区域,definitely_good,1.0
+a03100,7,绝对Good区域,definitely_good,1.0
+a06775,7,绝对Good区域,definitely_good,1.0
+a07443,7,绝对Good区域,definitely_good,1.0
+a08011,7,绝对Good区域,definitely_good,1.0
+a08188,7,绝对Good区域,definitely_good,1.0
+a11423,7,绝对Good区域,definitely_good,1.0
+a13450,7,绝对Good区域,definitely_good,1.0
+a13750,7,绝对Good区域,definitely_good,1.0
+a15031,7,绝对Good区域,definitely_good,1.0
+a15271,7,绝对Good区域,definitely_good,1.0
+a16334,7,绝对Good区域,definitely_good,1.0
+a16796,7,绝对Good区域,definitely_good,1.0
+a19222,7,绝对Good区域,definitely_good,1.0
+a19464,7,绝对Good区域,definitely_good,1.0
+a20698,7,绝对Good区域,definitely_good,1.0
+a22939,7,绝对Good区域,definitely_good,1.0
+a23470,7,绝对Good区域,definitely_good,1.0
+a23899,7,绝对Good区域,definitely_good,1.0
+a26371,7,绝对Good区域,definitely_good,1.0
+a26710,7,绝对Good区域,definitely_good,1.0
+a29133,7,绝对Good区域,definitely_good,1.0
+a29215,7,绝对Good区域,definitely_good,1.0
+a30102,7,绝对Good区域,definitely_good,1.0
+a30711,7,绝对Good区域,definitely_good,1.0
+a30714,7,绝对Good区域,definitely_good,1.0
+a01941,6,绝对Good区域,definitely_good,1.0
+a02339,6,绝对Good区域,definitely_good,1.0
+a02393,6,绝对Good区域,definitely_good,1.0
+a02761,6,绝对Good区域,definitely_good,1.0
+a02912,6,绝对Good区域,definitely_good,1.0
+a03244,6,绝对Good区域,definitely_good,1.0
+a03646,6,绝对Good区域,definitely_good,1.0
+a04759,6,绝对Good区域,definitely_good,1.0
+a04888,6,绝对Good区域,definitely_good,1.0
+a05342,6,绝对Good区域,definitely_good,1.0
+a05513,6,绝对Good区域,definitely_good,1.0
+a07302,6,绝对Good区域,definitely_good,1.0
+a07414,6,绝对Good区域,definitely_good,1.0
+a07697,6,绝对Good区域,definitely_good,1.0
+a10306,6,绝对Good区域,definitely_good,1.0
+a10983,6,绝对Good区域,definitely_good,1.0
+a11441,6,绝对Good区域,definitely_good,1.0
+a12121,6,绝对Good区域,definitely_good,1.0
+a14259,6,绝对Good区域,definitely_good,1.0
+a14346,6,绝对Good区域,definitely_good,1.0
+a15858,6,绝对Good区域,definitely_good,1.0
+a16219,6,绝对Good区域,definitely_good,1.0
+a16495,6,绝对Good区域,definitely_good,1.0
+a16607,6,绝对Good区域,definitely_good,1.0
+a16804,6,绝对Good区域,definitely_good,1.0
+a17379,6,绝对Good区域,definitely_good,1.0
+a17718,6,绝对Good区域,definitely_good,1.0
+a17832,6,绝对Good区域,definitely_good,1.0
+a17858,6,绝对Good区域,definitely_good,1.0
+a19970,6,绝对Good区域,definitely_good,1.0
+a20301,6,绝对Good区域,definitely_good,1.0
+a20865,6,绝对Good区域,definitely_good,1.0
+a20874,6,绝对Good区域,definitely_good,1.0
+a24427,6,绝对Good区域,definitely_good,1.0
+a25098,6,绝对Good区域,definitely_good,1.0
+a25135,6,绝对Good区域,definitely_good,1.0
+a25908,6,绝对Good区域,definitely_good,1.0
+a26730,6,绝对Good区域,definitely_good,1.0
+a27244,6,绝对Good区域,definitely_good,1.0
+a28883,6,绝对Good区域,definitely_good,1.0
+a28885,6,绝对Good区域,definitely_good,1.0
+a29102,6,绝对Good区域,definitely_good,1.0
+a30496,6,绝对Good区域,definitely_good,1.0
+a30564,6,绝对Good区域,definitely_good,1.0
+a31118,6,绝对Good区域,definitely_good,1.0
+a01217,5,绝对Good区域,definitely_good,1.0
+a01747,5,绝对Good区域,definitely_good,1.0
+a03056,5,绝对Good区域,definitely_good,1.0
+a05031,5,绝对Good区域,definitely_good,1.0
+a05115,5,绝对Good区域,definitely_good,1.0
+a05652,5,绝对Good区域,definitely_good,1.0
+a06261,5,绝对Good区域,definitely_good,1.0
+a06591,5,绝对Good区域,definitely_good,1.0
+a06599,5,绝对Good区域,definitely_good,1.0
+a06910,5,绝对Good区域,definitely_good,1.0
+a07105,5,绝对Good区域,definitely_good,1.0
+a08920,5,绝对Good区域,definitely_good,1.0
+a08972,5,绝对Good区域,definitely_good,1.0
+a09058,5,绝对Good区域,definitely_good,1.0
+a09477,5,绝对Good区域,definitely_good,1.0
+a12877,5,绝对Good区域,definitely_good,1.0
+a13330,5,绝对Good区域,definitely_good,1.0
+a13663,5,绝对Good区域,definitely_good,1.0
+a14036,5,绝对Good区域,definitely_good,1.0
+a14076,5,绝对Good区域,definitely_good,1.0
+a14135,5,绝对Good区域,definitely_good,1.0
+a14641,5,绝对Good区域,definitely_good,1.0
+a14791,5,绝对Good区域,definitely_good,1.0
+a14891,5,绝对Good区域,definitely_good,1.0
+a15252,5,绝对Good区域,definitely_good,1.0
+a15478,5,绝对Good区域,definitely_good,1.0
+a16120,5,绝对Good区域,definitely_good,1.0
+a17332,5,绝对Good区域,definitely_good,1.0
+a17478,5,绝对Good区域,definitely_good,1.0
+a17972,5,绝对Good区域,definitely_good,1.0
+a19137,5,绝对Good区域,definitely_good,1.0
+a19857,5,绝对Good区域,definitely_good,1.0
+a19927,5,绝对Good区域,definitely_good,1.0
+a21701,5,绝对Good区域,definitely_good,1.0
+a22446,5,绝对Good区域,definitely_good,1.0
+a22777,5,绝对Good区域,definitely_good,1.0
+a23224,5,绝对Good区域,definitely_good,1.0
+a25200,5,绝对Good区域,definitely_good,1.0
+a25779,5,绝对Good区域,definitely_good,1.0
+a26638,5,绝对Good区域,definitely_good,1.0
+a26666,5,绝对Good区域,definitely_good,1.0
+a26867,5,绝对Good区域,definitely_good,1.0
+a26878,5,绝对Good区域,definitely_good,1.0
+a27717,5,绝对Good区域,definitely_good,1.0
+a28221,5,绝对Good区域,definitely_good,1.0
+a28430,5,绝对Good区域,definitely_good,1.0
+a29297,5,绝对Good区域,definitely_good,1.0
+a29464,5,绝对Good区域,definitely_good,1.0
+a31295,5,绝对Good区域,definitely_good,1.0
+a01148,4,绝对Good区域,definitely_good,1.0
+a01265,4,绝对Good区域,definitely_good,1.0
+a01977,4,绝对Good区域,definitely_good,1.0
+a02455,4,绝对Good区域,definitely_good,1.0
+a03618,4,绝对Good区域,definitely_good,1.0
+a03821,4,绝对Good区域,definitely_good,1.0
+a05842,4,绝对Good区域,definitely_good,1.0
+a07071,4,绝对Good区域,definitely_good,1.0
+a07509,4,绝对Good区域,definitely_good,1.0
+a08853,4,绝对Good区域,definitely_good,1.0
+a09187,4,绝对Good区域,definitely_good,1.0
+a09877,4,绝对Good区域,definitely_good,1.0
+a09901,4,绝对Good区域,definitely_good,1.0
+a09955,4,绝对Good区域,definitely_good,1.0
+a10746,4,绝对Good区域,definitely_good,1.0
+a11038,4,绝对Good区域,definitely_good,1.0
+a11634,4,绝对Good区域,definitely_good,1.0
+a11695,4,绝对Good区域,definitely_good,1.0
+a11719,4,绝对Good区域,definitely_good,1.0
+a12293,4,绝对Good区域,definitely_good,1.0
+a12992,4,绝对Good区域,definitely_good,1.0
+a13170,4,绝对Good区域,definitely_good,1.0
+a13402,4,绝对Good区域,definitely_good,1.0
+a15248,4,绝对Good区域,definitely_good,1.0
+a15485,4,绝对Good区域,definitely_good,1.0
+a15761,4,绝对Good区域,definitely_good,1.0
+a16764,4,绝对Good区域,definitely_good,1.0
+a17345,4,绝对Good区域,definitely_good,1.0
+a17636,4,绝对Good区域,definitely_good,1.0
+a17738,4,绝对Good区域,definitely_good,1.0
+a18209,4,绝对Good区域,definitely_good,1.0
+a18280,4,绝对Good区域,definitely_good,1.0
+a19705,4,绝对Good区域,definitely_good,1.0
+a21538,4,绝对Good区域,definitely_good,1.0
+a21875,4,绝对Good区域,definitely_good,1.0
+a21944,4,绝对Good区域,definitely_good,1.0
+a23213,4,绝对Good区域,definitely_good,1.0
+a23413,4,绝对Good区域,definitely_good,1.0
+a24491,4,绝对Good区域,definitely_good,1.0
+a25049,4,绝对Good区域,definitely_good,1.0
+a26201,4,绝对Good区域,definitely_good,1.0
+a26314,4,绝对Good区域,definitely_good,1.0
+a26806,4,绝对Good区域,definitely_good,1.0
+a27088,4,绝对Good区域,definitely_good,1.0
+a27205,4,绝对Good区域,definitely_good,1.0
+a27216,4,绝对Good区域,definitely_good,1.0
+a27548,4,绝对Good区域,definitely_good,1.0
+a27914,4,绝对Good区域,definitely_good,1.0
+a28040,4,绝对Good区域,definitely_good,1.0
+a28296,4,绝对Good区域,definitely_good,1.0
+a28527,4,绝对Good区域,definitely_good,1.0
+a28660,4,绝对Good区域,definitely_good,1.0
+a29307,4,绝对Good区域,definitely_good,1.0
+a30632,4,绝对Good区域,definitely_good,1.0
+a30872,4,绝对Good区域,definitely_good,1.0
+a30873,4,绝对Good区域,definitely_good,1.0
+a31184,4,绝对Good区域,definitely_good,1.0
+a00027,3,绝对Good区域,definitely_good,1.0
+a00816,3,绝对Good区域,definitely_good,1.0
+a01040,3,绝对Good区域,definitely_good,1.0
+a01701,3,绝对Good区域,definitely_good,1.0
+a01908,3,绝对Good区域,definitely_good,1.0
+a02395,3,绝对Good区域,definitely_good,1.0
+a02657,3,绝对Good区域,definitely_good,1.0
+a02698,3,绝对Good区域,definitely_good,1.0
+a03674,3,绝对Good区域,definitely_good,1.0
+a03685,3,绝对Good区域,definitely_good,1.0
+a03872,3,绝对Good区域,definitely_good,1.0
+a04305,3,绝对Good区域,definitely_good,1.0
+a04533,3,绝对Good区域,definitely_good,1.0
+a04621,3,绝对Good区域,definitely_good,1.0
+a04655,3,绝对Good区域,definitely_good,1.0
+a05653,3,绝对Good区域,definitely_good,1.0
+a05688,3,绝对Good区域,definitely_good,1.0
+a05898,3,绝对Good区域,definitely_good,1.0
+a05939,3,绝对Good区域,definitely_good,1.0
+a06307,3,绝对Good区域,definitely_good,1.0
+a07195,3,绝对Good区域,definitely_good,1.0
+a07746,3,绝对Good区域,definitely_good,1.0
+a07768,3,绝对Good区域,definitely_good,1.0
+a08225,3,绝对Good区域,definitely_good,1.0
+a08335,3,绝对Good区域,definitely_good,1.0
+a08824,3,绝对Good区域,definitely_good,1.0
+a09141,3,绝对Good区域,definitely_good,1.0
+a09685,3,绝对Good区域,definitely_good,1.0
+a09690,3,绝对Good区域,definitely_good,1.0
+a10373,3,绝对Good区域,definitely_good,1.0
+a10477,3,绝对Good区域,definitely_good,1.0
+a10966,3,绝对Good区域,definitely_good,1.0
+a11521,3,绝对Good区域,definitely_good,1.0
+a11526,3,绝对Good区域,definitely_good,1.0
+a11676,3,绝对Good区域,definitely_good,1.0
+a11866,3,绝对Good区域,definitely_good,1.0
+a13077,3,绝对Good区域,definitely_good,1.0
+a13513,3,绝对Good区域,definitely_good,1.0
+a14794,3,绝对Good区域,definitely_good,1.0
+a16007,3,绝对Good区域,definitely_good,1.0
+a16403,3,绝对Good区域,definitely_good,1.0
+a16644,3,绝对Good区域,definitely_good,1.0
+a17072,3,绝对Good区域,definitely_good,1.0
+a17079,3,绝对Good区域,definitely_good,1.0
+a17275,3,绝对Good区域,definitely_good,1.0
+a17497,3,绝对Good区域,definitely_good,1.0
+a17504,3,绝对Good区域,definitely_good,1.0
+a17728,3,绝对Good区域,definitely_good,1.0
+a18348,3,绝对Good区域,definitely_good,1.0
+a18594,3,绝对Good区域,definitely_good,1.0
+a18819,3,绝对Good区域,definitely_good,1.0
+a18991,3,绝对Good区域,definitely_good,1.0
+a19276,3,绝对Good区域,definitely_good,1.0
+a20051,3,绝对Good区域,definitely_good,1.0
+a20739,3,绝对Good区域,definitely_good,1.0
+a20829,3,绝对Good区域,definitely_good,1.0
+a22414,3,绝对Good区域,definitely_good,1.0
+a22573,3,绝对Good区域,definitely_good,1.0
+a23250,3,绝对Good区域,definitely_good,1.0
+a23761,3,绝对Good区域,definitely_good,1.0
+a24566,3,绝对Good区域,definitely_good,1.0
+a24719,3,绝对Good区域,definitely_good,1.0
+a25171,3,绝对Good区域,definitely_good,1.0
+a25178,3,绝对Good区域,definitely_good,1.0
+a25732,3,绝对Good区域,definitely_good,1.0
+a26356,3,绝对Good区域,definitely_good,1.0
+a27089,3,绝对Good区域,definitely_good,1.0
+a27233,3,绝对Good区域,definitely_good,1.0
+a27713,3,绝对Good区域,definitely_good,1.0
+a28117,3,绝对Good区域,definitely_good,1.0
+a28417,3,绝对Good区域,definitely_good,1.0
+a28560,3,绝对Good区域,definitely_good,1.0
+a28900,3,绝对Good区域,definitely_good,1.0
+a29706,3,绝对Good区域,definitely_good,1.0
+a30754,3,绝对Good区域,definitely_good,1.0
+a31369,3,绝对Good区域,definitely_good,1.0
+a00050,2,绝对Good区域,definitely_good,1.0
+a00416,2,绝对Good区域,definitely_good,1.0
+a00723,2,绝对Good区域,definitely_good,1.0
+a01253,2,绝对Good区域,definitely_good,1.0
+a01287,2,绝对Good区域,definitely_good,1.0
+a01354,2,绝对Good区域,definitely_good,1.0
+a01480,2,绝对Good区域,definitely_good,1.0
+a01768,2,绝对Good区域,definitely_good,1.0
+a01992,2,绝对Good区域,definitely_good,1.0
+a02484,2,绝对Good区域,definitely_good,1.0
+a02899,2,绝对Good区域,definitely_good,1.0
+a03001,2,绝对Good区域,definitely_good,1.0
+a04055,2,绝对Good区域,definitely_good,1.0
+a04485,2,绝对Good区域,definitely_good,1.0
+a04550,2,绝对Good区域,definitely_good,1.0
+a05654,2,绝对Good区域,definitely_good,1.0
+a06078,2,绝对Good区域,definitely_good,1.0
+a06117,2,绝对Good区域,definitely_good,1.0
+a07080,2,绝对Good区域,definitely_good,1.0
+a07108,2,绝对Good区域,definitely_good,1.0
+a07206,2,绝对Good区域,definitely_good,1.0
+a07248,2,绝对Good区域,definitely_good,1.0
+a07481,2,绝对Good区域,definitely_good,1.0
+a07482,2,绝对Good区域,definitely_good,1.0
+a08414,2,绝对Good区域,definitely_good,1.0
+a09024,2,绝对Good区域,definitely_good,1.0
+a09185,2,绝对Good区域,definitely_good,1.0
+a09722,2,绝对Good区域,definitely_good,1.0
+a10025,2,绝对Good区域,definitely_good,1.0
+a10685,2,绝对Good区域,definitely_good,1.0
+a11202,2,绝对Good区域,definitely_good,1.0
+a11232,2,绝对Good区域,definitely_good,1.0
+a11272,2,绝对Good区域,definitely_good,1.0
+a11447,2,绝对Good区域,definitely_good,1.0
+a11582,2,绝对Good区域,definitely_good,1.0
+a11790,2,绝对Good区域,definitely_good,1.0
+a12915,2,绝对Good区域,definitely_good,1.0
+a13544,2,绝对Good区域,definitely_good,1.0
+a13635,2,绝对Good区域,definitely_good,1.0
+a13692,2,绝对Good区域,definitely_good,1.0
+a13707,2,绝对Good区域,definitely_good,1.0
+a13885,2,绝对Good区域,definitely_good,1.0
+a14497,2,绝对Good区域,definitely_good,1.0
+a15049,2,绝对Good区域,definitely_good,1.0
+a15314,2,绝对Good区域,definitely_good,1.0
+a15419,2,绝对Good区域,definitely_good,1.0
+a15797,2,绝对Good区域,definitely_good,1.0
+a16153,2,绝对Good区域,definitely_good,1.0
+a16247,2,绝对Good区域,definitely_good,1.0
+a16302,2,绝对Good区域,definitely_good,1.0
+a16430,2,绝对Good区域,definitely_good,1.0
+a17120,2,绝对Good区域,definitely_good,1.0
+a17244,2,绝对Good区域,definitely_good,1.0
+a17768,2,绝对Good区域,definitely_good,1.0
+a17955,2,绝对Good区域,definitely_good,1.0
+a18128,2,绝对Good区域,definitely_good,1.0
+a18349,2,绝对Good区域,definitely_good,1.0
+a18615,2,绝对Good区域,definitely_good,1.0
+a19015,2,绝对Good区域,definitely_good,1.0
+a19311,2,绝对Good区域,definitely_good,1.0
+a19674,2,绝对Good区域,definitely_good,1.0
+a19793,2,绝对Good区域,definitely_good,1.0
+a19902,2,绝对Good区域,definitely_good,1.0
+a19948,2,绝对Good区域,definitely_good,1.0
+a20373,2,绝对Good区域,definitely_good,1.0
+a20760,2,绝对Good区域,definitely_good,1.0
+a20902,2,绝对Good区域,definitely_good,1.0
+a21305,2,绝对Good区域,definitely_good,1.0
+a21895,2,绝对Good区域,definitely_good,1.0
+a22657,2,绝对Good区域,definitely_good,1.0
+a22683,2,绝对Good区域,definitely_good,1.0
+a22836,2,绝对Good区域,definitely_good,1.0
+a23441,2,绝对Good区域,definitely_good,1.0
+a24165,2,绝对Good区域,definitely_good,1.0
+a24265,2,绝对Good区域,definitely_good,1.0
+a24573,2,绝对Good区域,definitely_good,1.0
+a25312,2,绝对Good区域,definitely_good,1.0
+a25413,2,绝对Good区域,definitely_good,1.0
+a26382,2,绝对Good区域,definitely_good,1.0
+a26950,2,绝对Good区域,definitely_good,1.0
+a26997,2,绝对Good区域,definitely_good,1.0
+a27428,2,绝对Good区域,definitely_good,1.0
+a29064,2,绝对Good区域,definitely_good,1.0
+a30112,2,绝对Good区域,definitely_good,1.0
+a30619,2,绝对Good区域,definitely_good,1.0
+a30673,2,绝对Good区域,definitely_good,1.0
+a31146,2,绝对Good区域,definitely_good,1.0
+a31301,2,绝对Good区域,definitely_good,1.0
+a31389,2,绝对Good区域,definitely_good,1.0
+a00035,1,绝对Good区域,definitely_good,1.0
+a00315,1,绝对Good区域,definitely_good,1.0
+a00590,1,绝对Good区域,definitely_good,1.0
+a00709,1,绝对Good区域,definitely_good,1.0
+a01266,1,绝对Good区域,definitely_good,1.0
+a01660,1,绝对Good区域,definitely_good,1.0
+a01878,1,绝对Good区域,definitely_good,1.0
+a02312,1,绝对Good区域,definitely_good,1.0
+a02774,1,绝对Good区域,definitely_good,1.0
+a02986,1,绝对Good区域,definitely_good,1.0
+a02988,1,绝对Good区域,definitely_good,1.0
+a03245,1,绝对Good区域,definitely_good,1.0
+a03383,1,绝对Good区域,definitely_good,1.0
+a03691,1,绝对Good区域,definitely_good,1.0
+a03730,1,绝对Good区域,definitely_good,1.0
+a04059,1,绝对Good区域,definitely_good,1.0
+a04486,1,绝对Good区域,definitely_good,1.0
+a04547,1,绝对Good区域,definitely_good,1.0
+a04592,1,绝对Good区域,definitely_good,1.0
+a04782,1,绝对Good区域,definitely_good,1.0
+a05106,1,绝对Good区域,definitely_good,1.0
+a05353,1,绝对Good区域,definitely_good,1.0
+a05406,1,绝对Good区域,definitely_good,1.0
+a05857,1,绝对Good区域,definitely_good,1.0
+a05925,1,绝对Good区域,definitely_good,1.0
+a06090,1,绝对Good区域,definitely_good,1.0
+a06171,1,绝对Good区域,definitely_good,1.0
+a06323,1,绝对Good区域,definitely_good,1.0
+a06490,1,绝对Good区域,definitely_good,1.0
+a06519,1,绝对Good区域,definitely_good,1.0
+a06670,1,绝对Good区域,definitely_good,1.0
+a06873,1,绝对Good区域,definitely_good,1.0
+a06966,1,绝对Good区域,definitely_good,1.0
+a07303,1,绝对Good区域,definitely_good,1.0
+a07616,1,绝对Good区域,definitely_good,1.0
+a07765,1,绝对Good区域,definitely_good,1.0
+a07936,1,绝对Good区域,definitely_good,1.0
+a08210,1,绝对Good区域,definitely_good,1.0
+a08368,1,绝对Good区域,definitely_good,1.0
+a08593,1,绝对Good区域,definitely_good,1.0
+a08696,1,绝对Good区域,definitely_good,1.0
+a08828,1,绝对Good区域,definitely_good,1.0
+a09003,1,绝对Good区域,definitely_good,1.0
+a09146,1,绝对Good区域,definitely_good,1.0
+a09196,1,绝对Good区域,definitely_good,1.0
+a09573,1,绝对Good区域,definitely_good,1.0
+a09841,1,绝对Good区域,definitely_good,1.0
+a10302,1,绝对Good区域,definitely_good,1.0
+a10305,1,绝对Good区域,definitely_good,1.0
+a10471,1,绝对Good区域,definitely_good,1.0
+a10517,1,绝对Good区域,definitely_good,1.0
+a10688,1,绝对Good区域,definitely_good,1.0
+a11006,1,绝对Good区域,definitely_good,1.0
+a11027,1,绝对Good区域,definitely_good,1.0
+a11241,1,绝对Good区域,definitely_good,1.0
+a11356,1,绝对Good区域,definitely_good,1.0
+a11479,1,绝对Good区域,definitely_good,1.0
+a11487,1,绝对Good区域,definitely_good,1.0
+a11637,1,绝对Good区域,definitely_good,1.0
+a11886,1,绝对Good区域,definitely_good,1.0
+a12105,1,绝对Good区域,definitely_good,1.0
+a12568,1,绝对Good区域,definitely_good,1.0
+a12732,1,绝对Good区域,definitely_good,1.0
+a12820,1,绝对Good区域,definitely_good,1.0
+a12940,1,绝对Good区域,definitely_good,1.0
+a12991,1,绝对Good区域,definitely_good,1.0
+a13141,1,绝对Good区域,definitely_good,1.0
+a13406,1,绝对Good区域,definitely_good,1.0
+a14184,1,绝对Good区域,definitely_good,1.0
+a14549,1,绝对Good区域,definitely_good,1.0
+a14562,1,绝对Good区域,definitely_good,1.0
+a14630,1,绝对Good区域,definitely_good,1.0
+a14831,1,绝对Good区域,definitely_good,1.0
+a14899,1,绝对Good区域,definitely_good,1.0
+a15398,1,绝对Good区域,definitely_good,1.0
+a15831,1,绝对Good区域,definitely_good,1.0
+a15865,1,绝对Good区域,definitely_good,1.0
+a16101,1,绝对Good区域,definitely_good,1.0
+a16510,1,绝对Good区域,definitely_good,1.0
+a16526,1,绝对Good区域,definitely_good,1.0
+a16755,1,绝对Good区域,definitely_good,1.0
+a16890,1,绝对Good区域,definitely_good,1.0
+a16941,1,绝对Good区域,definitely_good,1.0
+a17090,1,绝对Good区域,definitely_good,1.0
+a17122,1,绝对Good区域,definitely_good,1.0
+a17124,1,绝对Good区域,definitely_good,1.0
+a17468,1,绝对Good区域,definitely_good,1.0
+a17513,1,绝对Good区域,definitely_good,1.0
+a17694,1,绝对Good区域,definitely_good,1.0
+a17715,1,绝对Good区域,definitely_good,1.0
+a17737,1,绝对Good区域,definitely_good,1.0
+a17754,1,绝对Good区域,definitely_good,1.0
+a17979,1,绝对Good区域,definitely_good,1.0
+a18599,1,绝对Good区域,definitely_good,1.0
+a18863,1,绝对Good区域,definitely_good,1.0
+a18908,1,绝对Good区域,definitely_good,1.0
+a18999,1,绝对Good区域,definitely_good,1.0
+a19028,1,绝对Good区域,definitely_good,1.0
+a19169,1,绝对Good区域,definitely_good,1.0
+a19288,1,绝对Good区域,definitely_good,1.0
+a19716,1,绝对Good区域,definitely_good,1.0
+a20026,1,绝对Good区域,definitely_good,1.0
+a20089,1,绝对Good区域,definitely_good,1.0
+a20260,1,绝对Good区域,definitely_good,1.0
+a20341,1,绝对Good区域,definitely_good,1.0
+a20375,1,绝对Good区域,definitely_good,1.0
+a20690,1,绝对Good区域,definitely_good,1.0
+a21088,1,绝对Good区域,definitely_good,1.0
+a21144,1,绝对Good区域,definitely_good,1.0
+a21163,1,绝对Good区域,definitely_good,1.0
+a21743,1,绝对Good区域,definitely_good,1.0
+a21790,1,绝对Good区域,definitely_good,1.0
+a21855,1,绝对Good区域,definitely_good,1.0
+a22265,1,绝对Good区域,definitely_good,1.0
+a22754,1,绝对Good区域,definitely_good,1.0
+a23205,1,绝对Good区域,definitely_good,1.0
+a23432,1,绝对Good区域,definitely_good,1.0
+a23453,1,绝对Good区域,definitely_good,1.0
+a23475,1,绝对Good区域,definitely_good,1.0
+a23756,1,绝对Good区域,definitely_good,1.0
+a23851,1,绝对Good区域,definitely_good,1.0
+a23890,1,绝对Good区域,definitely_good,1.0
+a24034,1,绝对Good区域,definitely_good,1.0
+a24186,1,绝对Good区域,definitely_good,1.0
+a24568,1,绝对Good区域,definitely_good,1.0
+a25008,1,绝对Good区域,definitely_good,1.0
+a25329,1,绝对Good区域,definitely_good,1.0
+a25478,1,绝对Good区域,definitely_good,1.0
+a25633,1,绝对Good区域,definitely_good,1.0
+a25837,1,绝对Good区域,definitely_good,1.0
+a26151,1,绝对Good区域,definitely_good,1.0
+a26417,1,绝对Good区域,definitely_good,1.0
+a26924,1,绝对Good区域,definitely_good,1.0
+a27018,1,绝对Good区域,definitely_good,1.0
+a27035,1,绝对Good区域,definitely_good,1.0
+a27061,1,绝对Good区域,definitely_good,1.0
+a27155,1,绝对Good区域,definitely_good,1.0
+a27208,1,绝对Good区域,definitely_good,1.0
+a27228,1,绝对Good区域,definitely_good,1.0
+a27528,1,绝对Good区域,definitely_good,1.0
+a27685,1,绝对Good区域,definitely_good,1.0
+a27769,1,绝对Good区域,definitely_good,1.0
+a28032,1,绝对Good区域,definitely_good,1.0
+a28104,1,绝对Good区域,definitely_good,1.0
+a28113,1,绝对Good区域,definitely_good,1.0
+a28240,1,绝对Good区域,definitely_good,1.0
+a28352,1,绝对Good区域,definitely_good,1.0
+a28427,1,绝对Good区域,definitely_good,1.0
+a28446,1,绝对Good区域,definitely_good,1.0
+a28452,1,绝对Good区域,definitely_good,1.0
+a28515,1,绝对Good区域,definitely_good,1.0
+a28662,1,绝对Good区域,definitely_good,1.0
+a28939,1,绝对Good区域,definitely_good,1.0
+a29062,1,绝对Good区域,definitely_good,1.0
+a29346,1,绝对Good区域,definitely_good,1.0
+a29553,1,绝对Good区域,definitely_good,1.0
+a29849,1,绝对Good区域,definitely_good,1.0
+a30045,1,绝对Good区域,definitely_good,1.0
+a30047,1,绝对Good区域,definitely_good,1.0
+a30235,1,绝对Good区域,definitely_good,1.0
+a30266,1,绝对Good区域,definitely_good,1.0
+a30380,1,绝对Good区域,definitely_good,1.0
+a30643,1,绝对Good区域,definitely_good,1.0
+a30660,1,绝对Good区域,definitely_good,1.0
+a30723,1,绝对Good区域,definitely_good,1.0
+a30874,1,绝对Good区域,definitely_good,1.0
+a30917,1,绝对Good区域,definitely_good,1.0
+a31286,1,绝对Good区域,definitely_good,1.0
+a31457,1,绝对Good区域,definitely_good,1.0
+a00035,1,"(0, 1]",mixed,0.005917159763313609
+a00315,1,"(0, 1]",mixed,0.005917159763313609
+a00590,1,"(0, 1]",mixed,0.005917159763313609
+a00709,1,"(0, 1]",mixed,0.005917159763313609
+a01266,1,"(0, 1]",mixed,0.005917159763313609
+a01660,1,"(0, 1]",mixed,0.005917159763313609
+a01878,1,"(0, 1]",mixed,0.005917159763313609
+a02312,1,"(0, 1]",mixed,0.005917159763313609
+a02774,1,"(0, 1]",mixed,0.005917159763313609
+a02986,1,"(0, 1]",mixed,0.005917159763313609
+a02988,1,"(0, 1]",mixed,0.005917159763313609
+a03245,1,"(0, 1]",mixed,0.005917159763313609
+a03383,1,"(0, 1]",mixed,0.005917159763313609
+a03691,1,"(0, 1]",mixed,0.005917159763313609
+a03730,1,"(0, 1]",mixed,0.005917159763313609
+a04059,1,"(0, 1]",mixed,0.005917159763313609
+a04486,1,"(0, 1]",mixed,0.005917159763313609
+a04547,1,"(0, 1]",mixed,0.005917159763313609
+a04592,1,"(0, 1]",mixed,0.005917159763313609
+a04782,1,"(0, 1]",mixed,0.005917159763313609
+a05106,1,"(0, 1]",mixed,0.005917159763313609
+a05353,1,"(0, 1]",mixed,0.005917159763313609
+a05406,1,"(0, 1]",mixed,0.005917159763313609
+a05857,1,"(0, 1]",mixed,0.005917159763313609
+a05925,1,"(0, 1]",mixed,0.005917159763313609
+a06090,1,"(0, 1]",mixed,0.005917159763313609
+a06171,1,"(0, 1]",mixed,0.005917159763313609
+a06323,1,"(0, 1]",mixed,0.005917159763313609
+a06490,1,"(0, 1]",mixed,0.005917159763313609
+a06519,1,"(0, 1]",mixed,0.005917159763313609
+a06670,1,"(0, 1]",mixed,0.005917159763313609
+a06873,1,"(0, 1]",mixed,0.005917159763313609
+a06966,1,"(0, 1]",mixed,0.005917159763313609
+a07303,1,"(0, 1]",mixed,0.005917159763313609
+a07616,1,"(0, 1]",mixed,0.005917159763313609
+a07765,1,"(0, 1]",mixed,0.005917159763313609
+a07936,1,"(0, 1]",mixed,0.005917159763313609
+a08210,1,"(0, 1]",mixed,0.005917159763313609
+a08368,1,"(0, 1]",mixed,0.005917159763313609
+a08593,1,"(0, 1]",mixed,0.005917159763313609
+a08696,1,"(0, 1]",mixed,0.005917159763313609
+a08828,1,"(0, 1]",mixed,0.005917159763313609
+a09003,1,"(0, 1]",mixed,0.005917159763313609
+a09146,1,"(0, 1]",mixed,0.005917159763313609
+a09196,1,"(0, 1]",mixed,0.005917159763313609
+a09573,1,"(0, 1]",mixed,0.005917159763313609
+a09841,1,"(0, 1]",mixed,0.005917159763313609
+a10302,1,"(0, 1]",mixed,0.005917159763313609
+a10305,1,"(0, 1]",mixed,0.005917159763313609
+a10471,1,"(0, 1]",mixed,0.005917159763313609
+a10517,1,"(0, 1]",mixed,0.005917159763313609
+a10688,1,"(0, 1]",mixed,0.005917159763313609
+a11006,1,"(0, 1]",mixed,0.005917159763313609
+a11027,1,"(0, 1]",mixed,0.005917159763313609
+a11241,1,"(0, 1]",mixed,0.005917159763313609
+a11356,1,"(0, 1]",mixed,0.005917159763313609
+a11479,1,"(0, 1]",mixed,0.005917159763313609
+a11487,1,"(0, 1]",mixed,0.005917159763313609
+a11637,1,"(0, 1]",mixed,0.005917159763313609
+a11886,1,"(0, 1]",mixed,0.005917159763313609
+a12105,1,"(0, 1]",mixed,0.005917159763313609
+a12568,1,"(0, 1]",mixed,0.005917159763313609
+a12732,1,"(0, 1]",mixed,0.005917159763313609
+a12820,1,"(0, 1]",mixed,0.005917159763313609
+a12940,1,"(0, 1]",mixed,0.005917159763313609
+a12991,1,"(0, 1]",mixed,0.005917159763313609
+a13141,1,"(0, 1]",mixed,0.005917159763313609
+a13406,1,"(0, 1]",mixed,0.005917159763313609
+a14184,1,"(0, 1]",mixed,0.005917159763313609
+a14549,1,"(0, 1]",mixed,0.005917159763313609
+a14562,1,"(0, 1]",mixed,0.005917159763313609
+a14630,1,"(0, 1]",mixed,0.005917159763313609
+a14831,1,"(0, 1]",mixed,0.005917159763313609
+a14899,1,"(0, 1]",mixed,0.005917159763313609
+a15398,1,"(0, 1]",mixed,0.005917159763313609
+a15831,1,"(0, 1]",mixed,0.005917159763313609
+a15865,1,"(0, 1]",mixed,0.005917159763313609
+a16101,1,"(0, 1]",mixed,0.005917159763313609
+a16510,1,"(0, 1]",mixed,0.005917159763313609
+a16526,1,"(0, 1]",mixed,0.005917159763313609
+a16755,1,"(0, 1]",mixed,0.005917159763313609
+a16890,1,"(0, 1]",mixed,0.005917159763313609
+a16941,1,"(0, 1]",mixed,0.005917159763313609
+a17090,1,"(0, 1]",mixed,0.005917159763313609
+a17122,1,"(0, 1]",mixed,0.005917159763313609
+a17124,1,"(0, 1]",mixed,0.005917159763313609
+a17468,1,"(0, 1]",mixed,0.005917159763313609
+a17513,1,"(0, 1]",mixed,0.005917159763313609
+a17694,1,"(0, 1]",mixed,0.005917159763313609
+a17715,1,"(0, 1]",mixed,0.005917159763313609
+a17737,1,"(0, 1]",mixed,0.005917159763313609
+a17754,1,"(0, 1]",mixed,0.005917159763313609
+a17979,1,"(0, 1]",mixed,0.005917159763313609
+a18599,1,"(0, 1]",mixed,0.005917159763313609
+a18863,1,"(0, 1]",mixed,0.005917159763313609
+a18908,1,"(0, 1]",mixed,0.005917159763313609
+a18999,1,"(0, 1]",mixed,0.005917159763313609
+a19028,1,"(0, 1]",mixed,0.005917159763313609
+a19169,1,"(0, 1]",mixed,0.005917159763313609
+a19288,1,"(0, 1]",mixed,0.005917159763313609
+a19716,1,"(0, 1]",mixed,0.005917159763313609
+a20026,1,"(0, 1]",mixed,0.005917159763313609
+a20089,1,"(0, 1]",mixed,0.005917159763313609
+a20260,1,"(0, 1]",mixed,0.005917159763313609
+a20341,1,"(0, 1]",mixed,0.005917159763313609
+a20375,1,"(0, 1]",mixed,0.005917159763313609
+a20690,1,"(0, 1]",mixed,0.005917159763313609
+a21088,1,"(0, 1]",mixed,0.005917159763313609
+a21144,1,"(0, 1]",mixed,0.005917159763313609
+a21163,1,"(0, 1]",mixed,0.005917159763313609
+a21743,1,"(0, 1]",mixed,0.005917159763313609
+a21790,1,"(0, 1]",mixed,0.005917159763313609
+a21855,1,"(0, 1]",mixed,0.005917159763313609
+a22265,1,"(0, 1]",mixed,0.005917159763313609
+a22754,1,"(0, 1]",mixed,0.005917159763313609
+a23205,1,"(0, 1]",mixed,0.005917159763313609
+a23432,1,"(0, 1]",mixed,0.005917159763313609
+a23453,1,"(0, 1]",mixed,0.005917159763313609
+a23475,1,"(0, 1]",mixed,0.005917159763313609
+a23756,1,"(0, 1]",mixed,0.005917159763313609
+a23851,1,"(0, 1]",mixed,0.005917159763313609
+a23890,1,"(0, 1]",mixed,0.005917159763313609
+a24034,1,"(0, 1]",mixed,0.005917159763313609
+a24186,1,"(0, 1]",mixed,0.005917159763313609
+a24568,1,"(0, 1]",mixed,0.005917159763313609
+a25008,1,"(0, 1]",mixed,0.005917159763313609
+a25329,1,"(0, 1]",mixed,0.005917159763313609
+a25478,1,"(0, 1]",mixed,0.005917159763313609
+a25633,1,"(0, 1]",mixed,0.005917159763313609
+a25837,1,"(0, 1]",mixed,0.005917159763313609
+a26151,1,"(0, 1]",mixed,0.005917159763313609
+a26417,1,"(0, 1]",mixed,0.005917159763313609
+a26924,1,"(0, 1]",mixed,0.005917159763313609
+a27018,1,"(0, 1]",mixed,0.005917159763313609
+a27035,1,"(0, 1]",mixed,0.005917159763313609
+a27061,1,"(0, 1]",mixed,0.005917159763313609
+a27155,1,"(0, 1]",mixed,0.005917159763313609
+a27208,1,"(0, 1]",mixed,0.005917159763313609
+a27228,1,"(0, 1]",mixed,0.005917159763313609
+a27528,1,"(0, 1]",mixed,0.005917159763313609
+a27685,1,"(0, 1]",mixed,0.005917159763313609
+a27769,1,"(0, 1]",mixed,0.005917159763313609
+a28032,1,"(0, 1]",mixed,0.005917159763313609
+a28104,1,"(0, 1]",mixed,0.005917159763313609
+a28113,1,"(0, 1]",mixed,0.005917159763313609
+a28240,1,"(0, 1]",mixed,0.005917159763313609
+a28352,1,"(0, 1]",mixed,0.005917159763313609
+a28427,1,"(0, 1]",mixed,0.005917159763313609
+a28446,1,"(0, 1]",mixed,0.005917159763313609
+a28452,1,"(0, 1]",mixed,0.005917159763313609
+a28515,1,"(0, 1]",mixed,0.005917159763313609
+a28662,1,"(0, 1]",mixed,0.005917159763313609
+a28939,1,"(0, 1]",mixed,0.005917159763313609
+a29062,1,"(0, 1]",mixed,0.005917159763313609
+a29346,1,"(0, 1]",mixed,0.005917159763313609
+a29553,1,"(0, 1]",mixed,0.005917159763313609
+a29849,1,"(0, 1]",mixed,0.005917159763313609
+a30045,1,"(0, 1]",mixed,0.005917159763313609
+a30047,1,"(0, 1]",mixed,0.005917159763313609
+a30235,1,"(0, 1]",mixed,0.005917159763313609
+a30266,1,"(0, 1]",mixed,0.005917159763313609
+a30380,1,"(0, 1]",mixed,0.005917159763313609
+a30643,1,"(0, 1]",mixed,0.005917159763313609
+a30660,1,"(0, 1]",mixed,0.005917159763313609
+a30723,1,"(0, 1]",mixed,0.005917159763313609
+a30874,1,"(0, 1]",mixed,0.005917159763313609
+a30917,1,"(0, 1]",mixed,0.005917159763313609
+a31286,1,"(0, 1]",mixed,0.005917159763313609
+a31457,1,"(0, 1]",mixed,0.005917159763313609
+a00027,3,"(2, 3]",mixed,0.013157894736842105
+a00816,3,"(2, 3]",mixed,0.013157894736842105
+a01040,3,"(2, 3]",mixed,0.013157894736842105
+a01701,3,"(2, 3]",mixed,0.013157894736842105
+a01908,3,"(2, 3]",mixed,0.013157894736842105
+a02395,3,"(2, 3]",mixed,0.013157894736842105
+a02657,3,"(2, 3]",mixed,0.013157894736842105
+a02698,3,"(2, 3]",mixed,0.013157894736842105
+a03674,3,"(2, 3]",mixed,0.013157894736842105
+a03685,3,"(2, 3]",mixed,0.013157894736842105
+a03872,3,"(2, 3]",mixed,0.013157894736842105
+a04305,3,"(2, 3]",mixed,0.013157894736842105
+a04533,3,"(2, 3]",mixed,0.013157894736842105
+a04621,3,"(2, 3]",mixed,0.013157894736842105
+a04655,3,"(2, 3]",mixed,0.013157894736842105
+a05653,3,"(2, 3]",mixed,0.013157894736842105
+a05688,3,"(2, 3]",mixed,0.013157894736842105
+a05898,3,"(2, 3]",mixed,0.013157894736842105
+a05939,3,"(2, 3]",mixed,0.013157894736842105
+a06307,3,"(2, 3]",mixed,0.013157894736842105
+a07195,3,"(2, 3]",mixed,0.013157894736842105
+a07746,3,"(2, 3]",mixed,0.013157894736842105
+a07768,3,"(2, 3]",mixed,0.013157894736842105
+a08225,3,"(2, 3]",mixed,0.013157894736842105
+a08335,3,"(2, 3]",mixed,0.013157894736842105
+a08824,3,"(2, 3]",mixed,0.013157894736842105
+a09141,3,"(2, 3]",mixed,0.013157894736842105
+a09685,3,"(2, 3]",mixed,0.013157894736842105
+a09690,3,"(2, 3]",mixed,0.013157894736842105
+a10373,3,"(2, 3]",mixed,0.013157894736842105
+a10477,3,"(2, 3]",mixed,0.013157894736842105
+a10966,3,"(2, 3]",mixed,0.013157894736842105
+a11521,3,"(2, 3]",mixed,0.013157894736842105
+a11526,3,"(2, 3]",mixed,0.013157894736842105
+a11676,3,"(2, 3]",mixed,0.013157894736842105
+a11866,3,"(2, 3]",mixed,0.013157894736842105
+a13077,3,"(2, 3]",mixed,0.013157894736842105
+a13513,3,"(2, 3]",mixed,0.013157894736842105
+a14794,3,"(2, 3]",mixed,0.013157894736842105
+a16007,3,"(2, 3]",mixed,0.013157894736842105
+a16403,3,"(2, 3]",mixed,0.013157894736842105
+a16644,3,"(2, 3]",mixed,0.013157894736842105
+a17072,3,"(2, 3]",mixed,0.013157894736842105
+a17079,3,"(2, 3]",mixed,0.013157894736842105
+a17275,3,"(2, 3]",mixed,0.013157894736842105
+a17497,3,"(2, 3]",mixed,0.013157894736842105
+a17504,3,"(2, 3]",mixed,0.013157894736842105
+a17728,3,"(2, 3]",mixed,0.013157894736842105
+a18348,3,"(2, 3]",mixed,0.013157894736842105
+a18594,3,"(2, 3]",mixed,0.013157894736842105
+a18819,3,"(2, 3]",mixed,0.013157894736842105
+a18991,3,"(2, 3]",mixed,0.013157894736842105
+a19276,3,"(2, 3]",mixed,0.013157894736842105
+a20051,3,"(2, 3]",mixed,0.013157894736842105
+a20739,3,"(2, 3]",mixed,0.013157894736842105
+a20829,3,"(2, 3]",mixed,0.013157894736842105
+a22414,3,"(2, 3]",mixed,0.013157894736842105
+a22573,3,"(2, 3]",mixed,0.013157894736842105
+a23250,3,"(2, 3]",mixed,0.013157894736842105
+a23761,3,"(2, 3]",mixed,0.013157894736842105
+a24566,3,"(2, 3]",mixed,0.013157894736842105
+a24719,3,"(2, 3]",mixed,0.013157894736842105
+a25171,3,"(2, 3]",mixed,0.013157894736842105
+a25178,3,"(2, 3]",mixed,0.013157894736842105
+a25732,3,"(2, 3]",mixed,0.013157894736842105
+a26356,3,"(2, 3]",mixed,0.013157894736842105
+a27089,3,"(2, 3]",mixed,0.013157894736842105
+a27233,3,"(2, 3]",mixed,0.013157894736842105
+a27713,3,"(2, 3]",mixed,0.013157894736842105
+a28117,3,"(2, 3]",mixed,0.013157894736842105
+a28417,3,"(2, 3]",mixed,0.013157894736842105
+a28560,3,"(2, 3]",mixed,0.013157894736842105
+a28900,3,"(2, 3]",mixed,0.013157894736842105
+a29706,3,"(2, 3]",mixed,0.013157894736842105
+a30754,3,"(2, 3]",mixed,0.013157894736842105
+a31369,3,"(2, 3]",mixed,0.013157894736842105
+a01217,5,"(4, 5]",mixed,0.02040816326530612
+a01747,5,"(4, 5]",mixed,0.02040816326530612
+a03056,5,"(4, 5]",mixed,0.02040816326530612
+a05031,5,"(4, 5]",mixed,0.02040816326530612
+a05115,5,"(4, 5]",mixed,0.02040816326530612
+a05652,5,"(4, 5]",mixed,0.02040816326530612
+a06261,5,"(4, 5]",mixed,0.02040816326530612
+a06591,5,"(4, 5]",mixed,0.02040816326530612
+a06599,5,"(4, 5]",mixed,0.02040816326530612
+a06910,5,"(4, 5]",mixed,0.02040816326530612
+a07105,5,"(4, 5]",mixed,0.02040816326530612
+a08920,5,"(4, 5]",mixed,0.02040816326530612
+a08972,5,"(4, 5]",mixed,0.02040816326530612
+a09058,5,"(4, 5]",mixed,0.02040816326530612
+a09477,5,"(4, 5]",mixed,0.02040816326530612
+a12877,5,"(4, 5]",mixed,0.02040816326530612
+a13330,5,"(4, 5]",mixed,0.02040816326530612
+a13663,5,"(4, 5]",mixed,0.02040816326530612
+a14036,5,"(4, 5]",mixed,0.02040816326530612
+a14076,5,"(4, 5]",mixed,0.02040816326530612
+a14135,5,"(4, 5]",mixed,0.02040816326530612
+a14641,5,"(4, 5]",mixed,0.02040816326530612
+a14791,5,"(4, 5]",mixed,0.02040816326530612
+a14891,5,"(4, 5]",mixed,0.02040816326530612
+a15252,5,"(4, 5]",mixed,0.02040816326530612
+a15478,5,"(4, 5]",mixed,0.02040816326530612
+a16120,5,"(4, 5]",mixed,0.02040816326530612
+a17332,5,"(4, 5]",mixed,0.02040816326530612
+a17478,5,"(4, 5]",mixed,0.02040816326530612
+a17972,5,"(4, 5]",mixed,0.02040816326530612
+a19137,5,"(4, 5]",mixed,0.02040816326530612
+a19857,5,"(4, 5]",mixed,0.02040816326530612
+a19927,5,"(4, 5]",mixed,0.02040816326530612
+a21701,5,"(4, 5]",mixed,0.02040816326530612
+a22446,5,"(4, 5]",mixed,0.02040816326530612
+a22777,5,"(4, 5]",mixed,0.02040816326530612
+a23224,5,"(4, 5]",mixed,0.02040816326530612
+a25200,5,"(4, 5]",mixed,0.02040816326530612
+a25779,5,"(4, 5]",mixed,0.02040816326530612
+a26638,5,"(4, 5]",mixed,0.02040816326530612
+a26666,5,"(4, 5]",mixed,0.02040816326530612
+a26867,5,"(4, 5]",mixed,0.02040816326530612
+a26878,5,"(4, 5]",mixed,0.02040816326530612
+a27717,5,"(4, 5]",mixed,0.02040816326530612
+a28221,5,"(4, 5]",mixed,0.02040816326530612
+a28430,5,"(4, 5]",mixed,0.02040816326530612
+a29297,5,"(4, 5]",mixed,0.02040816326530612
+a29464,5,"(4, 5]",mixed,0.02040816326530612
+a31295,5,"(4, 5]",mixed,0.02040816326530612
+a00297,8,"(7, 8]",mixed,0.029411764705882353
+a01286,8,"(7, 8]",mixed,0.029411764705882353
+a01563,8,"(7, 8]",mixed,0.029411764705882353
+a01787,8,"(7, 8]",mixed,0.029411764705882353
+a02404,8,"(7, 8]",mixed,0.029411764705882353
+a04803,8,"(7, 8]",mixed,0.029411764705882353
+a04966,8,"(7, 8]",mixed,0.029411764705882353
+a06712,8,"(7, 8]",mixed,0.029411764705882353
+a07161,8,"(7, 8]",mixed,0.029411764705882353
+a07385,8,"(7, 8]",mixed,0.029411764705882353
+a08325,8,"(7, 8]",mixed,0.029411764705882353
+a08737,8,"(7, 8]",mixed,0.029411764705882353
+a10753,8,"(7, 8]",mixed,0.029411764705882353
+a11587,8,"(7, 8]",mixed,0.029411764705882353
+a13385,8,"(7, 8]",mixed,0.029411764705882353
+a15938,8,"(7, 8]",mixed,0.029411764705882353
+a16187,8,"(7, 8]",mixed,0.029411764705882353
+a17265,8,"(7, 8]",mixed,0.029411764705882353
+a17385,8,"(7, 8]",mixed,0.029411764705882353
+a17619,8,"(7, 8]",mixed,0.029411764705882353
+a18492,8,"(7, 8]",mixed,0.029411764705882353
+a18724,8,"(7, 8]",mixed,0.029411764705882353
+a22051,8,"(7, 8]",mixed,0.029411764705882353
+a22120,8,"(7, 8]",mixed,0.029411764705882353
+a22173,8,"(7, 8]",mixed,0.029411764705882353
+a23744,8,"(7, 8]",mixed,0.029411764705882353
+a25711,8,"(7, 8]",mixed,0.029411764705882353
+a26361,8,"(7, 8]",mixed,0.029411764705882353
+a26796,8,"(7, 8]",mixed,0.029411764705882353
+a27263,8,"(7, 8]",mixed,0.029411764705882353
+a29084,8,"(7, 8]",mixed,0.029411764705882353
+a29347,8,"(7, 8]",mixed,0.029411764705882353
+a30098,8,"(7, 8]",mixed,0.029411764705882353
+a30361,8,"(7, 8]",mixed,0.029411764705882353
+a00819,9,"(8, 9]",mixed,0.03333333333333333
+a01459,9,"(8, 9]",mixed,0.03333333333333333
+a04284,9,"(8, 9]",mixed,0.03333333333333333
+a04430,9,"(8, 9]",mixed,0.03333333333333333
+a04618,9,"(8, 9]",mixed,0.03333333333333333
+a05044,9,"(8, 9]",mixed,0.03333333333333333
+a06177,9,"(8, 9]",mixed,0.03333333333333333
+a07138,9,"(8, 9]",mixed,0.03333333333333333
+a07176,9,"(8, 9]",mixed,0.03333333333333333
+a07305,9,"(8, 9]",mixed,0.03333333333333333
+a07480,9,"(8, 9]",mixed,0.03333333333333333
+a07550,9,"(8, 9]",mixed,0.03333333333333333
+a08133,9,"(8, 9]",mixed,0.03333333333333333
+a09097,9,"(8, 9]",mixed,0.03333333333333333
+a09135,9,"(8, 9]",mixed,0.03333333333333333
+a10366,9,"(8, 9]",mixed,0.03333333333333333
+a10969,9,"(8, 9]",mixed,0.03333333333333333
+a14206,9,"(8, 9]",mixed,0.03333333333333333
+a15223,9,"(8, 9]",mixed,0.03333333333333333
+a16134,9,"(8, 9]",mixed,0.03333333333333333
+a17923,9,"(8, 9]",mixed,0.03333333333333333
+a21246,9,"(8, 9]",mixed,0.03333333333333333
+a21264,9,"(8, 9]",mixed,0.03333333333333333
+a21340,9,"(8, 9]",mixed,0.03333333333333333
+a22244,9,"(8, 9]",mixed,0.03333333333333333
+a22547,9,"(8, 9]",mixed,0.03333333333333333
+a24062,9,"(8, 9]",mixed,0.03333333333333333
+a26124,9,"(8, 9]",mixed,0.03333333333333333
+a26935,9,"(8, 9]",mixed,0.03333333333333333
+a27906,9,"(8, 9]",mixed,0.03333333333333333
+a00518,16,"(15, 16]",mixed,0.02564102564102564
+a03343,16,"(15, 16]",mixed,0.02564102564102564
+a03441,16,"(15, 16]",mixed,0.02564102564102564
+a03824,16,"(15, 16]",mixed,0.02564102564102564
+a04603,16,"(15, 16]",mixed,0.02564102564102564
+a04881,16,"(15, 16]",mixed,0.02564102564102564
+a06702,16,"(15, 16]",mixed,0.02564102564102564
+a07933,16,"(15, 16]",mixed,0.02564102564102564
+a09301,16,"(15, 16]",mixed,0.02564102564102564
+a10346,16,"(15, 16]",mixed,0.02564102564102564
+a11118,16,"(15, 16]",mixed,0.02564102564102564
+a13084,16,"(15, 16]",mixed,0.02564102564102564
+a13414,16,"(15, 16]",mixed,0.02564102564102564
+a14489,16,"(15, 16]",mixed,0.02564102564102564
+a14650,16,"(15, 16]",mixed,0.02564102564102564
+a14903,16,"(15, 16]",mixed,0.02564102564102564
+a14921,16,"(15, 16]",mixed,0.02564102564102564
+a14942,16,"(15, 16]",mixed,0.02564102564102564
+a15528,16,"(15, 16]",mixed,0.02564102564102564
+a15811,16,"(15, 16]",mixed,0.02564102564102564
+a16058,16,"(15, 16]",mixed,0.02564102564102564
+a17772,16,"(15, 16]",mixed,0.02564102564102564
+a19717,16,"(15, 16]",mixed,0.02564102564102564
+a19781,16,"(15, 16]",mixed,0.02564102564102564
+a20083,16,"(15, 16]",mixed,0.02564102564102564
+a20101,16,"(15, 16]",mixed,0.02564102564102564
+a23164,16,"(15, 16]",mixed,0.02564102564102564
+a23404,16,"(15, 16]",mixed,0.02564102564102564
+a24897,16,"(15, 16]",mixed,0.02564102564102564
+a25051,16,"(15, 16]",mixed,0.02564102564102564
+a25242,16,"(15, 16]",mixed,0.02564102564102564
+a26135,16,"(15, 16]",mixed,0.02564102564102564
+a26308,16,"(15, 16]",mixed,0.02564102564102564
+a26336,16,"(15, 16]",mixed,0.02564102564102564
+a27260,16,"(15, 16]",mixed,0.02564102564102564
+a27384,16,"(15, 16]",mixed,0.02564102564102564
+a28488,16,"(15, 16]",mixed,0.02564102564102564
+a29218,16,"(15, 16]",mixed,0.02564102564102564
+a29857,16,"(15, 16]",mixed,0.02564102564102564
+a00095,17,"(16, 17]",mixed,0.009615384615384616
+a00555,17,"(16, 17]",mixed,0.009615384615384616
+a01991,17,"(16, 17]",mixed,0.009615384615384616
+a02171,17,"(16, 17]",mixed,0.009615384615384616
+a02715,17,"(16, 17]",mixed,0.009615384615384616
+a03283,17,"(16, 17]",mixed,0.009615384615384616
+a03296,17,"(16, 17]",mixed,0.009615384615384616
+a03375,17,"(16, 17]",mixed,0.009615384615384616
+a03601,17,"(16, 17]",mixed,0.009615384615384616
+a03864,17,"(16, 17]",mixed,0.009615384615384616
+a03982,17,"(16, 17]",mixed,0.009615384615384616
+a04066,17,"(16, 17]",mixed,0.009615384615384616
+a04246,17,"(16, 17]",mixed,0.009615384615384616
+a04609,17,"(16, 17]",mixed,0.009615384615384616
+a04694,17,"(16, 17]",mixed,0.009615384615384616
+a05001,17,"(16, 17]",mixed,0.009615384615384616
+a05067,17,"(16, 17]",mixed,0.009615384615384616
+a05218,17,"(16, 17]",mixed,0.009615384615384616
+a05852,17,"(16, 17]",mixed,0.009615384615384616
+a06321,17,"(16, 17]",mixed,0.009615384615384616
+a06452,17,"(16, 17]",mixed,0.009615384615384616
+a06564,17,"(16, 17]",mixed,0.009615384615384616
+a06604,17,"(16, 17]",mixed,0.009615384615384616
+a06657,17,"(16, 17]",mixed,0.009615384615384616
+a06931,17,"(16, 17]",mixed,0.009615384615384616
+a07089,17,"(16, 17]",mixed,0.009615384615384616
+a08090,17,"(16, 17]",mixed,0.009615384615384616
+a08202,17,"(16, 17]",mixed,0.009615384615384616
+a08284,17,"(16, 17]",mixed,0.009615384615384616
+a08411,17,"(16, 17]",mixed,0.009615384615384616
+a08578,17,"(16, 17]",mixed,0.009615384615384616
+a08771,17,"(16, 17]",mixed,0.009615384615384616
+a09398,17,"(16, 17]",mixed,0.009615384615384616
+a09637,17,"(16, 17]",mixed,0.009615384615384616
+a10422,17,"(16, 17]",mixed,0.009615384615384616
+a10585,17,"(16, 17]",mixed,0.009615384615384616
+a10954,17,"(16, 17]",mixed,0.009615384615384616
+a11877,17,"(16, 17]",mixed,0.009615384615384616
+a12557,17,"(16, 17]",mixed,0.009615384615384616
+a12576,17,"(16, 17]",mixed,0.009615384615384616
+a12769,17,"(16, 17]",mixed,0.009615384615384616
+a13137,17,"(16, 17]",mixed,0.009615384615384616
+a13565,17,"(16, 17]",mixed,0.009615384615384616
+a14469,17,"(16, 17]",mixed,0.009615384615384616
+a15052,17,"(16, 17]",mixed,0.009615384615384616
+a15211,17,"(16, 17]",mixed,0.009615384615384616
+a15476,17,"(16, 17]",mixed,0.009615384615384616
+a15921,17,"(16, 17]",mixed,0.009615384615384616
+a15994,17,"(16, 17]",mixed,0.009615384615384616
+a16523,17,"(16, 17]",mixed,0.009615384615384616
+a16901,17,"(16, 17]",mixed,0.009615384615384616
+a17328,17,"(16, 17]",mixed,0.009615384615384616
+a17369,17,"(16, 17]",mixed,0.009615384615384616
+a17435,17,"(16, 17]",mixed,0.009615384615384616
+a17848,17,"(16, 17]",mixed,0.009615384615384616
+a18071,17,"(16, 17]",mixed,0.009615384615384616
+a18078,17,"(16, 17]",mixed,0.009615384615384616
+a19195,17,"(16, 17]",mixed,0.009615384615384616
+a19488,17,"(16, 17]",mixed,0.009615384615384616
+a19849,17,"(16, 17]",mixed,0.009615384615384616
+a19877,17,"(16, 17]",mixed,0.009615384615384616
+a20484,17,"(16, 17]",mixed,0.009615384615384616
+a21030,17,"(16, 17]",mixed,0.009615384615384616
+a21094,17,"(16, 17]",mixed,0.009615384615384616
+a21244,17,"(16, 17]",mixed,0.009615384615384616
+a21358,17,"(16, 17]",mixed,0.009615384615384616
+a21765,17,"(16, 17]",mixed,0.009615384615384616
+a22024,17,"(16, 17]",mixed,0.009615384615384616
+a22147,17,"(16, 17]",mixed,0.009615384615384616
+a22162,17,"(16, 17]",mixed,0.009615384615384616
+a22345,17,"(16, 17]",mixed,0.009615384615384616
+a22441,17,"(16, 17]",mixed,0.009615384615384616
+a22570,17,"(16, 17]",mixed,0.009615384615384616
+a22613,17,"(16, 17]",mixed,0.009615384615384616
+a22854,17,"(16, 17]",mixed,0.009615384615384616
+a23815,17,"(16, 17]",mixed,0.009615384615384616
+a23921,17,"(16, 17]",mixed,0.009615384615384616
+a23935,17,"(16, 17]",mixed,0.009615384615384616
+a23947,17,"(16, 17]",mixed,0.009615384615384616
+a23965,17,"(16, 17]",mixed,0.009615384615384616
+a24987,17,"(16, 17]",mixed,0.009615384615384616
+a25122,17,"(16, 17]",mixed,0.009615384615384616
+a25204,17,"(16, 17]",mixed,0.009615384615384616
+a25640,17,"(16, 17]",mixed,0.009615384615384616
+a25652,17,"(16, 17]",mixed,0.009615384615384616
+a25879,17,"(16, 17]",mixed,0.009615384615384616
+a25883,17,"(16, 17]",mixed,0.009615384615384616
+a26325,17,"(16, 17]",mixed,0.009615384615384616
+a26720,17,"(16, 17]",mixed,0.009615384615384616
+a26791,17,"(16, 17]",mixed,0.009615384615384616
+a27308,17,"(16, 17]",mixed,0.009615384615384616
+a27411,17,"(16, 17]",mixed,0.009615384615384616
+a27430,17,"(16, 17]",mixed,0.009615384615384616
+a27637,17,"(16, 17]",mixed,0.009615384615384616
+a28121,17,"(16, 17]",mixed,0.009615384615384616
+a28273,17,"(16, 17]",mixed,0.009615384615384616
+a28610,17,"(16, 17]",mixed,0.009615384615384616
+a28800,17,"(16, 17]",mixed,0.009615384615384616
+a29719,17,"(16, 17]",mixed,0.009615384615384616
+a30287,17,"(16, 17]",mixed,0.009615384615384616
+a30290,17,"(16, 17]",mixed,0.009615384615384616
+a30882,17,"(16, 17]",mixed,0.009615384615384616
+a31035,17,"(16, 17]",mixed,0.009615384615384616
+a31446,17,"(16, 17]",mixed,0.009615384615384616
+a07288,19,"(18, 19]",mixed,0.1
+a07376,19,"(18, 19]",mixed,0.1
+a07916,19,"(18, 19]",mixed,0.1
+a12573,19,"(18, 19]",mixed,0.1
+a16615,19,"(18, 19]",mixed,0.1
+a19073,19,"(18, 19]",mixed,0.1
+a20137,19,"(18, 19]",mixed,0.1
+a27396,19,"(18, 19]",mixed,0.1
+a27761,19,"(18, 19]",mixed,0.1
+a27899,19,"(18, 19]",mixed,0.1
+a00134,20,"(19, 20]",mixed,0.06666666666666667
+a02812,20,"(19, 20]",mixed,0.06666666666666667
+a03576,20,"(19, 20]",mixed,0.06666666666666667
+a07398,20,"(19, 20]",mixed,0.06666666666666667
+a08841,20,"(19, 20]",mixed,0.06666666666666667
+a08848,20,"(19, 20]",mixed,0.06666666666666667
+a09043,20,"(19, 20]",mixed,0.06666666666666667
+a13194,20,"(19, 20]",mixed,0.06666666666666667
+a15342,20,"(19, 20]",mixed,0.06666666666666667
+a19915,20,"(19, 20]",mixed,0.06666666666666667
+a23818,20,"(19, 20]",mixed,0.06666666666666667
+a26667,20,"(19, 20]",mixed,0.06666666666666667
+a27486,20,"(19, 20]",mixed,0.06666666666666667
+a30405,20,"(19, 20]",mixed,0.06666666666666667
+a30446,20,"(19, 20]",mixed,0.06666666666666667
+a02560,22,"(21, 22]",mixed,0.047619047619047616
+a04539,22,"(21, 22]",mixed,0.047619047619047616
+a08866,22,"(21, 22]",mixed,0.047619047619047616
+a09485,22,"(21, 22]",mixed,0.047619047619047616
+a09493,22,"(21, 22]",mixed,0.047619047619047616
+a09737,22,"(21, 22]",mixed,0.047619047619047616
+a11525,22,"(21, 22]",mixed,0.047619047619047616
+a15025,22,"(21, 22]",mixed,0.047619047619047616
+a15509,22,"(21, 22]",mixed,0.047619047619047616
+a15515,22,"(21, 22]",mixed,0.047619047619047616
+a15985,22,"(21, 22]",mixed,0.047619047619047616
+a18271,22,"(21, 22]",mixed,0.047619047619047616
+a19081,22,"(21, 22]",mixed,0.047619047619047616
+a19106,22,"(21, 22]",mixed,0.047619047619047616
+a19380,22,"(21, 22]",mixed,0.047619047619047616
+a20464,22,"(21, 22]",mixed,0.047619047619047616
+a20676,22,"(21, 22]",mixed,0.047619047619047616
+a20809,22,"(21, 22]",mixed,0.047619047619047616
+a21170,22,"(21, 22]",mixed,0.047619047619047616
+a21512,22,"(21, 22]",mixed,0.047619047619047616
+a24589,22,"(21, 22]",mixed,0.047619047619047616
+a03937,24,"(23, 24]",mixed,0.09090909090909091
+a04827,24,"(23, 24]",mixed,0.09090909090909091
+a09411,24,"(23, 24]",mixed,0.09090909090909091
+a10552,24,"(23, 24]",mixed,0.09090909090909091
+a16965,24,"(23, 24]",mixed,0.09090909090909091
+a17602,24,"(23, 24]",mixed,0.09090909090909091
+a21150,24,"(23, 24]",mixed,0.09090909090909091
+a21750,24,"(23, 24]",mixed,0.09090909090909091
+a23876,24,"(23, 24]",mixed,0.09090909090909091
+a24475,24,"(23, 24]",mixed,0.09090909090909091
+a24990,24,"(23, 24]",mixed,0.09090909090909091
+a07786,29,"(28, 29]",mixed,0.1111111111111111
+a08387,29,"(28, 29]",mixed,0.1111111111111111
+a14840,29,"(28, 29]",mixed,0.1111111111111111
+a16986,29,"(28, 29]",mixed,0.1111111111111111
+a17253,29,"(28, 29]",mixed,0.1111111111111111
+a24344,29,"(28, 29]",mixed,0.1111111111111111
+a25191,29,"(28, 29]",mixed,0.1111111111111111
+a26180,29,"(28, 29]",mixed,0.1111111111111111
+a28880,29,"(28, 29]",mixed,0.1111111111111111
+a01752,31,"(30, 31]",mixed,0.045454545454545456
+a02198,31,"(30, 31]",mixed,0.045454545454545456
+a03699,31,"(30, 31]",mixed,0.045454545454545456
+a04711,31,"(30, 31]",mixed,0.045454545454545456
+a05678,31,"(30, 31]",mixed,0.045454545454545456
+a05799,31,"(30, 31]",mixed,0.045454545454545456
+a07260,31,"(30, 31]",mixed,0.045454545454545456
+a08541,31,"(30, 31]",mixed,0.045454545454545456
+a09096,31,"(30, 31]",mixed,0.045454545454545456
+a12924,31,"(30, 31]",mixed,0.045454545454545456
+a14137,31,"(30, 31]",mixed,0.045454545454545456
+a17180,31,"(30, 31]",mixed,0.045454545454545456
+a17263,31,"(30, 31]",mixed,0.045454545454545456
+a17304,31,"(30, 31]",mixed,0.045454545454545456
+a17670,31,"(30, 31]",mixed,0.045454545454545456
+a19392,31,"(30, 31]",mixed,0.045454545454545456
+a21394,31,"(30, 31]",mixed,0.045454545454545456
+a22795,31,"(30, 31]",mixed,0.045454545454545456
+a24111,31,"(30, 31]",mixed,0.045454545454545456
+a25987,31,"(30, 31]",mixed,0.045454545454545456
+a26339,31,"(30, 31]",mixed,0.045454545454545456
+a26466,31,"(30, 31]",mixed,0.045454545454545456
+a00454,32,"(31, 32]",mixed,0.043478260869565216
+a02934,32,"(31, 32]",mixed,0.043478260869565216
+a04062,32,"(31, 32]",mixed,0.043478260869565216
+a04483,32,"(31, 32]",mixed,0.043478260869565216
+a07411,32,"(31, 32]",mixed,0.043478260869565216
+a08558,32,"(31, 32]",mixed,0.043478260869565216
+a08677,32,"(31, 32]",mixed,0.043478260869565216
+a11307,32,"(31, 32]",mixed,0.043478260869565216
+a12904,32,"(31, 32]",mixed,0.043478260869565216
+a13377,32,"(31, 32]",mixed,0.043478260869565216
+a15653,32,"(31, 32]",mixed,0.043478260869565216
+a18072,32,"(31, 32]",mixed,0.043478260869565216
+a19422,32,"(31, 32]",mixed,0.043478260869565216
+a19607,32,"(31, 32]",mixed,0.043478260869565216
+a20477,32,"(31, 32]",mixed,0.043478260869565216
+a20869,32,"(31, 32]",mixed,0.043478260869565216
+a21235,32,"(31, 32]",mixed,0.043478260869565216
+a22032,32,"(31, 32]",mixed,0.043478260869565216
+a23384,32,"(31, 32]",mixed,0.043478260869565216
+a23723,32,"(31, 32]",mixed,0.043478260869565216
+a25880,32,"(31, 32]",mixed,0.043478260869565216
+a26697,32,"(31, 32]",mixed,0.043478260869565216
+a30491,32,"(31, 32]",mixed,0.043478260869565216
+a00170,34,"(33, 34]",mixed,0.01639344262295082
+a00350,34,"(33, 34]",mixed,0.01639344262295082
+a00458,34,"(33, 34]",mixed,0.01639344262295082
+a00661,34,"(33, 34]",mixed,0.01639344262295082
+a01063,34,"(33, 34]",mixed,0.01639344262295082
+a01870,34,"(33, 34]",mixed,0.01639344262295082
+a01993,34,"(33, 34]",mixed,0.01639344262295082
+a03216,34,"(33, 34]",mixed,0.01639344262295082
+a03727,34,"(33, 34]",mixed,0.01639344262295082
+a04189,34,"(33, 34]",mixed,0.01639344262295082
+a04232,34,"(33, 34]",mixed,0.01639344262295082
+a04801,34,"(33, 34]",mixed,0.01639344262295082
+a05974,34,"(33, 34]",mixed,0.01639344262295082
+a06150,34,"(33, 34]",mixed,0.01639344262295082
+a06659,34,"(33, 34]",mixed,0.01639344262295082
+a06765,34,"(33, 34]",mixed,0.01639344262295082
+a08098,34,"(33, 34]",mixed,0.01639344262295082
+a08648,34,"(33, 34]",mixed,0.01639344262295082
+a09833,34,"(33, 34]",mixed,0.01639344262295082
+a10335,34,"(33, 34]",mixed,0.01639344262295082
+a10647,34,"(33, 34]",mixed,0.01639344262295082
+a11125,34,"(33, 34]",mixed,0.01639344262295082
+a11535,34,"(33, 34]",mixed,0.01639344262295082
+a12320,34,"(33, 34]",mixed,0.01639344262295082
+a12381,34,"(33, 34]",mixed,0.01639344262295082
+a12436,34,"(33, 34]",mixed,0.01639344262295082
+a12530,34,"(33, 34]",mixed,0.01639344262295082
+a12651,34,"(33, 34]",mixed,0.01639344262295082
+a12738,34,"(33, 34]",mixed,0.01639344262295082
+a12913,34,"(33, 34]",mixed,0.01639344262295082
+a13811,34,"(33, 34]",mixed,0.01639344262295082
+a14896,34,"(33, 34]",mixed,0.01639344262295082
+a16593,34,"(33, 34]",mixed,0.01639344262295082
+a17854,34,"(33, 34]",mixed,0.01639344262295082
+a17918,34,"(33, 34]",mixed,0.01639344262295082
+a18232,34,"(33, 34]",mixed,0.01639344262295082
+a18503,34,"(33, 34]",mixed,0.01639344262295082
+a18553,34,"(33, 34]",mixed,0.01639344262295082
+a18665,34,"(33, 34]",mixed,0.01639344262295082
+a18887,34,"(33, 34]",mixed,0.01639344262295082
+a19322,34,"(33, 34]",mixed,0.01639344262295082
+a19346,34,"(33, 34]",mixed,0.01639344262295082
+a20003,34,"(33, 34]",mixed,0.01639344262295082
+a20622,34,"(33, 34]",mixed,0.01639344262295082
+a21573,34,"(33, 34]",mixed,0.01639344262295082
+a22158,34,"(33, 34]",mixed,0.01639344262295082
+a22692,34,"(33, 34]",mixed,0.01639344262295082
+a24253,34,"(33, 34]",mixed,0.01639344262295082
+a24511,34,"(33, 34]",mixed,0.01639344262295082
+a24545,34,"(33, 34]",mixed,0.01639344262295082
+a24981,34,"(33, 34]",mixed,0.01639344262295082
+a25315,34,"(33, 34]",mixed,0.01639344262295082
+a26050,34,"(33, 34]",mixed,0.01639344262295082
+a26129,34,"(33, 34]",mixed,0.01639344262295082
+a27045,34,"(33, 34]",mixed,0.01639344262295082
+a27590,34,"(33, 34]",mixed,0.01639344262295082
+a27826,34,"(33, 34]",mixed,0.01639344262295082
+a27845,34,"(33, 34]",mixed,0.01639344262295082
+a28393,34,"(33, 34]",mixed,0.01639344262295082
+a30401,34,"(33, 34]",mixed,0.01639344262295082
+a30975,34,"(33, 34]",mixed,0.01639344262295082
+a00357,35,"(34, 35]",mixed,0.07142857142857142
+a01339,35,"(34, 35]",mixed,0.07142857142857142
+a01574,35,"(34, 35]",mixed,0.07142857142857142
+a01829,35,"(34, 35]",mixed,0.07142857142857142
+a01936,35,"(34, 35]",mixed,0.07142857142857142
+a02992,35,"(34, 35]",mixed,0.07142857142857142
+a03574,35,"(34, 35]",mixed,0.07142857142857142
+a04938,35,"(34, 35]",mixed,0.07142857142857142
+a05248,35,"(34, 35]",mixed,0.07142857142857142
+a06814,35,"(34, 35]",mixed,0.07142857142857142
+a06965,35,"(34, 35]",mixed,0.07142857142857142
+a07962,35,"(34, 35]",mixed,0.07142857142857142
+a08260,35,"(34, 35]",mixed,0.07142857142857142
+a08981,35,"(34, 35]",mixed,0.07142857142857142
+a09495,35,"(34, 35]",mixed,0.07142857142857142
+a10889,35,"(34, 35]",mixed,0.07142857142857142
+a11176,35,"(34, 35]",mixed,0.07142857142857142
+a12625,35,"(34, 35]",mixed,0.07142857142857142
+a12806,35,"(34, 35]",mixed,0.07142857142857142
+a14459,35,"(34, 35]",mixed,0.07142857142857142
+a15279,35,"(34, 35]",mixed,0.07142857142857142
+a18539,35,"(34, 35]",mixed,0.07142857142857142
+a18825,35,"(34, 35]",mixed,0.07142857142857142
+a18979,35,"(34, 35]",mixed,0.07142857142857142
+a19166,35,"(34, 35]",mixed,0.07142857142857142
+a19185,35,"(34, 35]",mixed,0.07142857142857142
+a19203,35,"(34, 35]",mixed,0.07142857142857142
+a19564,35,"(34, 35]",mixed,0.07142857142857142
+a19583,35,"(34, 35]",mixed,0.07142857142857142
+a19612,35,"(34, 35]",mixed,0.07142857142857142
+a19841,35,"(34, 35]",mixed,0.07142857142857142
+a20491,35,"(34, 35]",mixed,0.07142857142857142
+a20626,35,"(34, 35]",mixed,0.07142857142857142
+a20991,35,"(34, 35]",mixed,0.07142857142857142
+a21692,35,"(34, 35]",mixed,0.07142857142857142
+a22198,35,"(34, 35]",mixed,0.07142857142857142
+a23240,35,"(34, 35]",mixed,0.07142857142857142
+a24059,35,"(34, 35]",mixed,0.07142857142857142
+a25767,35,"(34, 35]",mixed,0.07142857142857142
+a26723,35,"(34, 35]",mixed,0.07142857142857142
+a26920,35,"(34, 35]",mixed,0.07142857142857142
+a29267,35,"(34, 35]",mixed,0.07142857142857142
+a00233,36,"(35, 36]",mixed,0.05405405405405406
+a00316,36,"(35, 36]",mixed,0.05405405405405406
+a00638,36,"(35, 36]",mixed,0.05405405405405406
+a02753,36,"(35, 36]",mixed,0.05405405405405406
+a03183,36,"(35, 36]",mixed,0.05405405405405406
+a04334,36,"(35, 36]",mixed,0.05405405405405406
+a04458,36,"(35, 36]",mixed,0.05405405405405406
+a06470,36,"(35, 36]",mixed,0.05405405405405406
+a08936,36,"(35, 36]",mixed,0.05405405405405406
+a09080,36,"(35, 36]",mixed,0.05405405405405406
+a09959,36,"(35, 36]",mixed,0.05405405405405406
+a10091,36,"(35, 36]",mixed,0.05405405405405406
+a10240,36,"(35, 36]",mixed,0.05405405405405406
+a10657,36,"(35, 36]",mixed,0.05405405405405406
+a12240,36,"(35, 36]",mixed,0.05405405405405406
+a13989,36,"(35, 36]",mixed,0.05405405405405406
+a14077,36,"(35, 36]",mixed,0.05405405405405406
+a14959,36,"(35, 36]",mixed,0.05405405405405406
+a17325,36,"(35, 36]",mixed,0.05405405405405406
+a18353,36,"(35, 36]",mixed,0.05405405405405406
+a18896,36,"(35, 36]",mixed,0.05405405405405406
+a18936,36,"(35, 36]",mixed,0.05405405405405406
+a19371,36,"(35, 36]",mixed,0.05405405405405406
+a19653,36,"(35, 36]",mixed,0.05405405405405406
+a20299,36,"(35, 36]",mixed,0.05405405405405406
+a21136,36,"(35, 36]",mixed,0.05405405405405406
+a21821,36,"(35, 36]",mixed,0.05405405405405406
+a21865,36,"(35, 36]",mixed,0.05405405405405406
+a23857,36,"(35, 36]",mixed,0.05405405405405406
+a24018,36,"(35, 36]",mixed,0.05405405405405406
+a24096,36,"(35, 36]",mixed,0.05405405405405406
+a24308,36,"(35, 36]",mixed,0.05405405405405406
+a24741,36,"(35, 36]",mixed,0.05405405405405406
+a27512,36,"(35, 36]",mixed,0.05405405405405406
+a28721,36,"(35, 36]",mixed,0.05405405405405406
+a28986,36,"(35, 36]",mixed,0.05405405405405406
+a29211,36,"(35, 36]",mixed,0.05405405405405406
+a00046,37,"(36, 37]",mixed,-0.11190476190476191
+a00093,37,"(36, 37]",mixed,-0.11190476190476191
+a00268,37,"(36, 37]",mixed,-0.11190476190476191
+a00410,37,"(36, 37]",mixed,-0.11190476190476191
+a00516,37,"(36, 37]",mixed,-0.11190476190476191
+a00604,37,"(36, 37]",mixed,-0.11190476190476191
+a00629,37,"(36, 37]",mixed,-0.11190476190476191
+a00639,37,"(36, 37]",mixed,-0.11190476190476191
+a00676,37,"(36, 37]",mixed,-0.11190476190476191
+a00787,37,"(36, 37]",mixed,-0.11190476190476191
+a00804,37,"(36, 37]",mixed,-0.11190476190476191
+a00834,37,"(36, 37]",mixed,-0.11190476190476191
+a00927,37,"(36, 37]",mixed,-0.11190476190476191
+a01078,37,"(36, 37]",mixed,-0.11190476190476191
+a01100,37,"(36, 37]",mixed,-0.11190476190476191
+a01113,37,"(36, 37]",mixed,-0.11190476190476191
+a01120,37,"(36, 37]",mixed,-0.11190476190476191
+a01218,37,"(36, 37]",mixed,-0.11190476190476191
+a01219,37,"(36, 37]",mixed,-0.11190476190476191
+a01244,37,"(36, 37]",mixed,-0.11190476190476191
+a01308,37,"(36, 37]",mixed,-0.11190476190476191
+a01349,37,"(36, 37]",mixed,-0.11190476190476191
+a01369,37,"(36, 37]",mixed,-0.11190476190476191
+a01516,37,"(36, 37]",mixed,-0.11190476190476191
+a01712,37,"(36, 37]",mixed,-0.11190476190476191
+a01733,37,"(36, 37]",mixed,-0.11190476190476191
+a01745,37,"(36, 37]",mixed,-0.11190476190476191
+a01771,37,"(36, 37]",mixed,-0.11190476190476191
+a01778,37,"(36, 37]",mixed,-0.11190476190476191
+a01780,37,"(36, 37]",mixed,-0.11190476190476191
+a01791,37,"(36, 37]",mixed,-0.11190476190476191
+a01807,37,"(36, 37]",mixed,-0.11190476190476191
+a02053,37,"(36, 37]",mixed,-0.11190476190476191
+a02125,37,"(36, 37]",mixed,-0.11190476190476191
+a02215,37,"(36, 37]",mixed,-0.11190476190476191
+a02249,37,"(36, 37]",mixed,-0.11190476190476191
+a02368,37,"(36, 37]",mixed,-0.11190476190476191
+a02553,37,"(36, 37]",mixed,-0.11190476190476191
+a02568,37,"(36, 37]",mixed,-0.11190476190476191
+a02601,37,"(36, 37]",mixed,-0.11190476190476191
+a02732,37,"(36, 37]",mixed,-0.11190476190476191
+a02772,37,"(36, 37]",mixed,-0.11190476190476191
+a02876,37,"(36, 37]",mixed,-0.11190476190476191
+a03030,37,"(36, 37]",mixed,-0.11190476190476191
+a03437,37,"(36, 37]",mixed,-0.11190476190476191
+a03519,37,"(36, 37]",mixed,-0.11190476190476191
+a03525,37,"(36, 37]",mixed,-0.11190476190476191
+a03641,37,"(36, 37]",mixed,-0.11190476190476191
+a03720,37,"(36, 37]",mixed,-0.11190476190476191
+a03728,37,"(36, 37]",mixed,-0.11190476190476191
+a03769,37,"(36, 37]",mixed,-0.11190476190476191
+a03811,37,"(36, 37]",mixed,-0.11190476190476191
+a03817,37,"(36, 37]",mixed,-0.11190476190476191
+a03820,37,"(36, 37]",mixed,-0.11190476190476191
+a03927,37,"(36, 37]",mixed,-0.11190476190476191
+a04076,37,"(36, 37]",mixed,-0.11190476190476191
+a04080,37,"(36, 37]",mixed,-0.11190476190476191
+a04185,37,"(36, 37]",mixed,-0.11190476190476191
+a04259,37,"(36, 37]",mixed,-0.11190476190476191
+a04262,37,"(36, 37]",mixed,-0.11190476190476191
+a04294,37,"(36, 37]",mixed,-0.11190476190476191
+a04427,37,"(36, 37]",mixed,-0.11190476190476191
+a04543,37,"(36, 37]",mixed,-0.11190476190476191
+a04589,37,"(36, 37]",mixed,-0.11190476190476191
+a04693,37,"(36, 37]",mixed,-0.11190476190476191
+a04713,37,"(36, 37]",mixed,-0.11190476190476191
+a04743,37,"(36, 37]",mixed,-0.11190476190476191
+a04806,37,"(36, 37]",mixed,-0.11190476190476191
+a04849,37,"(36, 37]",mixed,-0.11190476190476191
+a04906,37,"(36, 37]",mixed,-0.11190476190476191
+a04914,37,"(36, 37]",mixed,-0.11190476190476191
+a04922,37,"(36, 37]",mixed,-0.11190476190476191
+a04997,37,"(36, 37]",mixed,-0.11190476190476191
+a05116,37,"(36, 37]",mixed,-0.11190476190476191
+a05133,37,"(36, 37]",mixed,-0.11190476190476191
+a05200,37,"(36, 37]",mixed,-0.11190476190476191
+a05300,37,"(36, 37]",mixed,-0.11190476190476191
+a05344,37,"(36, 37]",mixed,-0.11190476190476191
+a05479,37,"(36, 37]",mixed,-0.11190476190476191
+a05554,37,"(36, 37]",mixed,-0.11190476190476191
+a05573,37,"(36, 37]",mixed,-0.11190476190476191
+a05593,37,"(36, 37]",mixed,-0.11190476190476191
+a05840,37,"(36, 37]",mixed,-0.11190476190476191
+a05971,37,"(36, 37]",mixed,-0.11190476190476191
+a06029,37,"(36, 37]",mixed,-0.11190476190476191
+a06058,37,"(36, 37]",mixed,-0.11190476190476191
+a06103,37,"(36, 37]",mixed,-0.11190476190476191
+a06204,37,"(36, 37]",mixed,-0.11190476190476191
+a06259,37,"(36, 37]",mixed,-0.11190476190476191
+a06497,37,"(36, 37]",mixed,-0.11190476190476191
+a06566,37,"(36, 37]",mixed,-0.11190476190476191
+a06609,37,"(36, 37]",mixed,-0.11190476190476191
+a06693,37,"(36, 37]",mixed,-0.11190476190476191
+a06752,37,"(36, 37]",mixed,-0.11190476190476191
+a06928,37,"(36, 37]",mixed,-0.11190476190476191
+a06953,37,"(36, 37]",mixed,-0.11190476190476191
+a07052,37,"(36, 37]",mixed,-0.11190476190476191
+a07109,37,"(36, 37]",mixed,-0.11190476190476191
+a07115,37,"(36, 37]",mixed,-0.11190476190476191
+a07341,37,"(36, 37]",mixed,-0.11190476190476191
+a07360,37,"(36, 37]",mixed,-0.11190476190476191
+a07437,37,"(36, 37]",mixed,-0.11190476190476191
+a07520,37,"(36, 37]",mixed,-0.11190476190476191
+a07689,37,"(36, 37]",mixed,-0.11190476190476191
+a07715,37,"(36, 37]",mixed,-0.11190476190476191
+a07832,37,"(36, 37]",mixed,-0.11190476190476191
+a07889,37,"(36, 37]",mixed,-0.11190476190476191
+a07959,37,"(36, 37]",mixed,-0.11190476190476191
+a08044,37,"(36, 37]",mixed,-0.11190476190476191
+a08105,37,"(36, 37]",mixed,-0.11190476190476191
+a08258,37,"(36, 37]",mixed,-0.11190476190476191
+a08275,37,"(36, 37]",mixed,-0.11190476190476191
+a08442,37,"(36, 37]",mixed,-0.11190476190476191
+a08612,37,"(36, 37]",mixed,-0.11190476190476191
+a08751,37,"(36, 37]",mixed,-0.11190476190476191
+a08888,37,"(36, 37]",mixed,-0.11190476190476191
+a08898,37,"(36, 37]",mixed,-0.11190476190476191
+a08932,37,"(36, 37]",mixed,-0.11190476190476191
+a09112,37,"(36, 37]",mixed,-0.11190476190476191
+a09131,37,"(36, 37]",mixed,-0.11190476190476191
+a09144,37,"(36, 37]",mixed,-0.11190476190476191
+a09162,37,"(36, 37]",mixed,-0.11190476190476191
+a09178,37,"(36, 37]",mixed,-0.11190476190476191
+a09244,37,"(36, 37]",mixed,-0.11190476190476191
+a09316,37,"(36, 37]",mixed,-0.11190476190476191
+a09349,37,"(36, 37]",mixed,-0.11190476190476191
+a09378,37,"(36, 37]",mixed,-0.11190476190476191
+a09397,37,"(36, 37]",mixed,-0.11190476190476191
+a09407,37,"(36, 37]",mixed,-0.11190476190476191
+a09461,37,"(36, 37]",mixed,-0.11190476190476191
+a09568,37,"(36, 37]",mixed,-0.11190476190476191
+a09635,37,"(36, 37]",mixed,-0.11190476190476191
+a09979,37,"(36, 37]",mixed,-0.11190476190476191
+a10009,37,"(36, 37]",mixed,-0.11190476190476191
+a10023,37,"(36, 37]",mixed,-0.11190476190476191
+a10103,37,"(36, 37]",mixed,-0.11190476190476191
+a10172,37,"(36, 37]",mixed,-0.11190476190476191
+a10287,37,"(36, 37]",mixed,-0.11190476190476191
+a10483,37,"(36, 37]",mixed,-0.11190476190476191
+a10506,37,"(36, 37]",mixed,-0.11190476190476191
+a10566,37,"(36, 37]",mixed,-0.11190476190476191
+a10666,37,"(36, 37]",mixed,-0.11190476190476191
+a10696,37,"(36, 37]",mixed,-0.11190476190476191
+a10704,37,"(36, 37]",mixed,-0.11190476190476191
+a10738,37,"(36, 37]",mixed,-0.11190476190476191
+a10791,37,"(36, 37]",mixed,-0.11190476190476191
+a10874,37,"(36, 37]",mixed,-0.11190476190476191
+a10905,37,"(36, 37]",mixed,-0.11190476190476191
+a11099,37,"(36, 37]",mixed,-0.11190476190476191
+a11101,37,"(36, 37]",mixed,-0.11190476190476191
+a11156,37,"(36, 37]",mixed,-0.11190476190476191
+a11175,37,"(36, 37]",mixed,-0.11190476190476191
+a11186,37,"(36, 37]",mixed,-0.11190476190476191
+a11238,37,"(36, 37]",mixed,-0.11190476190476191
+a11426,37,"(36, 37]",mixed,-0.11190476190476191
+a11623,37,"(36, 37]",mixed,-0.11190476190476191
+a11656,37,"(36, 37]",mixed,-0.11190476190476191
+a11682,37,"(36, 37]",mixed,-0.11190476190476191
+a12020,37,"(36, 37]",mixed,-0.11190476190476191
+a12047,37,"(36, 37]",mixed,-0.11190476190476191
+a12049,37,"(36, 37]",mixed,-0.11190476190476191
+a12078,37,"(36, 37]",mixed,-0.11190476190476191
+a12089,37,"(36, 37]",mixed,-0.11190476190476191
+a12104,37,"(36, 37]",mixed,-0.11190476190476191
+a12128,37,"(36, 37]",mixed,-0.11190476190476191
+a12130,37,"(36, 37]",mixed,-0.11190476190476191
+a12156,37,"(36, 37]",mixed,-0.11190476190476191
+a12219,37,"(36, 37]",mixed,-0.11190476190476191
+a12355,37,"(36, 37]",mixed,-0.11190476190476191
+a12458,37,"(36, 37]",mixed,-0.11190476190476191
+a12610,37,"(36, 37]",mixed,-0.11190476190476191
+a12655,37,"(36, 37]",mixed,-0.11190476190476191
+a12683,37,"(36, 37]",mixed,-0.11190476190476191
+a12719,37,"(36, 37]",mixed,-0.11190476190476191
+a12790,37,"(36, 37]",mixed,-0.11190476190476191
+a12869,37,"(36, 37]",mixed,-0.11190476190476191
+a12927,37,"(36, 37]",mixed,-0.11190476190476191
+a12964,37,"(36, 37]",mixed,-0.11190476190476191
+a13155,37,"(36, 37]",mixed,-0.11190476190476191
+a13250,37,"(36, 37]",mixed,-0.11190476190476191
+a13252,37,"(36, 37]",mixed,-0.11190476190476191
+a13289,37,"(36, 37]",mixed,-0.11190476190476191
+a13339,37,"(36, 37]",mixed,-0.11190476190476191
+a13437,37,"(36, 37]",mixed,-0.11190476190476191
+a13468,37,"(36, 37]",mixed,-0.11190476190476191
+a13496,37,"(36, 37]",mixed,-0.11190476190476191
+a13520,37,"(36, 37]",mixed,-0.11190476190476191
+a13561,37,"(36, 37]",mixed,-0.11190476190476191
+a13609,37,"(36, 37]",mixed,-0.11190476190476191
+a13742,37,"(36, 37]",mixed,-0.11190476190476191
+a13762,37,"(36, 37]",mixed,-0.11190476190476191
+a13782,37,"(36, 37]",mixed,-0.11190476190476191
+a13785,37,"(36, 37]",mixed,-0.11190476190476191
+a13796,37,"(36, 37]",mixed,-0.11190476190476191
+a13818,37,"(36, 37]",mixed,-0.11190476190476191
+a13837,37,"(36, 37]",mixed,-0.11190476190476191
+a13876,37,"(36, 37]",mixed,-0.11190476190476191
+a13891,37,"(36, 37]",mixed,-0.11190476190476191
+a13912,37,"(36, 37]",mixed,-0.11190476190476191
+a13920,37,"(36, 37]",mixed,-0.11190476190476191
+a13942,37,"(36, 37]",mixed,-0.11190476190476191
+a13975,37,"(36, 37]",mixed,-0.11190476190476191
+a14092,37,"(36, 37]",mixed,-0.11190476190476191
+a14157,37,"(36, 37]",mixed,-0.11190476190476191
+a14171,37,"(36, 37]",mixed,-0.11190476190476191
+a14193,37,"(36, 37]",mixed,-0.11190476190476191
+a14310,37,"(36, 37]",mixed,-0.11190476190476191
+a14401,37,"(36, 37]",mixed,-0.11190476190476191
+a14428,37,"(36, 37]",mixed,-0.11190476190476191
+a14477,37,"(36, 37]",mixed,-0.11190476190476191
+a14499,37,"(36, 37]",mixed,-0.11190476190476191
+a14642,37,"(36, 37]",mixed,-0.11190476190476191
+a14803,37,"(36, 37]",mixed,-0.11190476190476191
+a14843,37,"(36, 37]",mixed,-0.11190476190476191
+a14875,37,"(36, 37]",mixed,-0.11190476190476191
+a15165,37,"(36, 37]",mixed,-0.11190476190476191
+a15307,37,"(36, 37]",mixed,-0.11190476190476191
+a15366,37,"(36, 37]",mixed,-0.11190476190476191
+a15620,37,"(36, 37]",mixed,-0.11190476190476191
+a15735,37,"(36, 37]",mixed,-0.11190476190476191
+a15871,37,"(36, 37]",mixed,-0.11190476190476191
+a15914,37,"(36, 37]",mixed,-0.11190476190476191
+a15949,37,"(36, 37]",mixed,-0.11190476190476191
+a16048,37,"(36, 37]",mixed,-0.11190476190476191
+a16073,37,"(36, 37]",mixed,-0.11190476190476191
+a16083,37,"(36, 37]",mixed,-0.11190476190476191
+a16100,37,"(36, 37]",mixed,-0.11190476190476191
+a16188,37,"(36, 37]",mixed,-0.11190476190476191
+a16193,37,"(36, 37]",mixed,-0.11190476190476191
+a16368,37,"(36, 37]",mixed,-0.11190476190476191
+a16414,37,"(36, 37]",mixed,-0.11190476190476191
+a16428,37,"(36, 37]",mixed,-0.11190476190476191
+a16546,37,"(36, 37]",mixed,-0.11190476190476191
+a16700,37,"(36, 37]",mixed,-0.11190476190476191
+a16770,37,"(36, 37]",mixed,-0.11190476190476191
+a16900,37,"(36, 37]",mixed,-0.11190476190476191
+a16984,37,"(36, 37]",mixed,-0.11190476190476191
+a17433,37,"(36, 37]",mixed,-0.11190476190476191
+a17482,37,"(36, 37]",mixed,-0.11190476190476191
+a17516,37,"(36, 37]",mixed,-0.11190476190476191
+a17697,37,"(36, 37]",mixed,-0.11190476190476191
+a17804,37,"(36, 37]",mixed,-0.11190476190476191
+a17905,37,"(36, 37]",mixed,-0.11190476190476191
+a17937,37,"(36, 37]",mixed,-0.11190476190476191
+a18087,37,"(36, 37]",mixed,-0.11190476190476191
+a18143,37,"(36, 37]",mixed,-0.11190476190476191
+a18313,37,"(36, 37]",mixed,-0.11190476190476191
+a18380,37,"(36, 37]",mixed,-0.11190476190476191
+a18491,37,"(36, 37]",mixed,-0.11190476190476191
+a18561,37,"(36, 37]",mixed,-0.11190476190476191
+a18569,37,"(36, 37]",mixed,-0.11190476190476191
+a18588,37,"(36, 37]",mixed,-0.11190476190476191
+a18627,37,"(36, 37]",mixed,-0.11190476190476191
+a18646,37,"(36, 37]",mixed,-0.11190476190476191
+a18710,37,"(36, 37]",mixed,-0.11190476190476191
+a18739,37,"(36, 37]",mixed,-0.11190476190476191
+a18837,37,"(36, 37]",mixed,-0.11190476190476191
+a19350,37,"(36, 37]",mixed,-0.11190476190476191
+a19383,37,"(36, 37]",mixed,-0.11190476190476191
+a19386,37,"(36, 37]",mixed,-0.11190476190476191
+a19445,37,"(36, 37]",mixed,-0.11190476190476191
+a19506,37,"(36, 37]",mixed,-0.11190476190476191
+a19519,37,"(36, 37]",mixed,-0.11190476190476191
+a19525,37,"(36, 37]",mixed,-0.11190476190476191
+a19560,37,"(36, 37]",mixed,-0.11190476190476191
+a20153,37,"(36, 37]",mixed,-0.11190476190476191
+a20329,37,"(36, 37]",mixed,-0.11190476190476191
+a20403,37,"(36, 37]",mixed,-0.11190476190476191
+a20466,37,"(36, 37]",mixed,-0.11190476190476191
+a20555,37,"(36, 37]",mixed,-0.11190476190476191
+a20655,37,"(36, 37]",mixed,-0.11190476190476191
+a20657,37,"(36, 37]",mixed,-0.11190476190476191
+a20824,37,"(36, 37]",mixed,-0.11190476190476191
+a21050,37,"(36, 37]",mixed,-0.11190476190476191
+a21086,37,"(36, 37]",mixed,-0.11190476190476191
+a21278,37,"(36, 37]",mixed,-0.11190476190476191
+a21300,37,"(36, 37]",mixed,-0.11190476190476191
+a21321,37,"(36, 37]",mixed,-0.11190476190476191
+a21546,37,"(36, 37]",mixed,-0.11190476190476191
+a21597,37,"(36, 37]",mixed,-0.11190476190476191
+a21756,37,"(36, 37]",mixed,-0.11190476190476191
+a21823,37,"(36, 37]",mixed,-0.11190476190476191
+a21874,37,"(36, 37]",mixed,-0.11190476190476191
+a21878,37,"(36, 37]",mixed,-0.11190476190476191
+a22145,37,"(36, 37]",mixed,-0.11190476190476191
+a22194,37,"(36, 37]",mixed,-0.11190476190476191
+a22418,37,"(36, 37]",mixed,-0.11190476190476191
+a22468,37,"(36, 37]",mixed,-0.11190476190476191
+a22470,37,"(36, 37]",mixed,-0.11190476190476191
+a22490,37,"(36, 37]",mixed,-0.11190476190476191
+a22525,37,"(36, 37]",mixed,-0.11190476190476191
+a22786,37,"(36, 37]",mixed,-0.11190476190476191
+a22978,37,"(36, 37]",mixed,-0.11190476190476191
+a22981,37,"(36, 37]",mixed,-0.11190476190476191
+a23038,37,"(36, 37]",mixed,-0.11190476190476191
+a23067,37,"(36, 37]",mixed,-0.11190476190476191
+a23216,37,"(36, 37]",mixed,-0.11190476190476191
+a23233,37,"(36, 37]",mixed,-0.11190476190476191
+a23317,37,"(36, 37]",mixed,-0.11190476190476191
+a23376,37,"(36, 37]",mixed,-0.11190476190476191
+a23542,37,"(36, 37]",mixed,-0.11190476190476191
+a23737,37,"(36, 37]",mixed,-0.11190476190476191
+a23810,37,"(36, 37]",mixed,-0.11190476190476191
+a23884,37,"(36, 37]",mixed,-0.11190476190476191
+a23885,37,"(36, 37]",mixed,-0.11190476190476191
+a23925,37,"(36, 37]",mixed,-0.11190476190476191
+a23973,37,"(36, 37]",mixed,-0.11190476190476191
+a24028,37,"(36, 37]",mixed,-0.11190476190476191
+a24070,37,"(36, 37]",mixed,-0.11190476190476191
+a24190,37,"(36, 37]",mixed,-0.11190476190476191
+a24193,37,"(36, 37]",mixed,-0.11190476190476191
+a24203,37,"(36, 37]",mixed,-0.11190476190476191
+a24282,37,"(36, 37]",mixed,-0.11190476190476191
+a24318,37,"(36, 37]",mixed,-0.11190476190476191
+a24324,37,"(36, 37]",mixed,-0.11190476190476191
+a24374,37,"(36, 37]",mixed,-0.11190476190476191
+a24506,37,"(36, 37]",mixed,-0.11190476190476191
+a24562,37,"(36, 37]",mixed,-0.11190476190476191
+a24611,37,"(36, 37]",mixed,-0.11190476190476191
+a24690,37,"(36, 37]",mixed,-0.11190476190476191
+a24894,37,"(36, 37]",mixed,-0.11190476190476191
+a25025,37,"(36, 37]",mixed,-0.11190476190476191
+a25095,37,"(36, 37]",mixed,-0.11190476190476191
+a25147,37,"(36, 37]",mixed,-0.11190476190476191
+a25156,37,"(36, 37]",mixed,-0.11190476190476191
+a25166,37,"(36, 37]",mixed,-0.11190476190476191
+a25297,37,"(36, 37]",mixed,-0.11190476190476191
+a25473,37,"(36, 37]",mixed,-0.11190476190476191
+a25501,37,"(36, 37]",mixed,-0.11190476190476191
+a25519,37,"(36, 37]",mixed,-0.11190476190476191
+a25556,37,"(36, 37]",mixed,-0.11190476190476191
+a25796,37,"(36, 37]",mixed,-0.11190476190476191
+a25986,37,"(36, 37]",mixed,-0.11190476190476191
+a26083,37,"(36, 37]",mixed,-0.11190476190476191
+a26090,37,"(36, 37]",mixed,-0.11190476190476191
+a26095,37,"(36, 37]",mixed,-0.11190476190476191
+a26191,37,"(36, 37]",mixed,-0.11190476190476191
+a26257,37,"(36, 37]",mixed,-0.11190476190476191
+a26266,37,"(36, 37]",mixed,-0.11190476190476191
+a26275,37,"(36, 37]",mixed,-0.11190476190476191
+a26343,37,"(36, 37]",mixed,-0.11190476190476191
+a26365,37,"(36, 37]",mixed,-0.11190476190476191
+a26412,37,"(36, 37]",mixed,-0.11190476190476191
+a26439,37,"(36, 37]",mixed,-0.11190476190476191
+a26444,37,"(36, 37]",mixed,-0.11190476190476191
+a26641,37,"(36, 37]",mixed,-0.11190476190476191
+a26645,37,"(36, 37]",mixed,-0.11190476190476191
+a26919,37,"(36, 37]",mixed,-0.11190476190476191
+a26952,37,"(36, 37]",mixed,-0.11190476190476191
+a27001,37,"(36, 37]",mixed,-0.11190476190476191
+a27046,37,"(36, 37]",mixed,-0.11190476190476191
+a27074,37,"(36, 37]",mixed,-0.11190476190476191
+a27078,37,"(36, 37]",mixed,-0.11190476190476191
+a27163,37,"(36, 37]",mixed,-0.11190476190476191
+a27206,37,"(36, 37]",mixed,-0.11190476190476191
+a27381,37,"(36, 37]",mixed,-0.11190476190476191
+a27406,37,"(36, 37]",mixed,-0.11190476190476191
+a27527,37,"(36, 37]",mixed,-0.11190476190476191
+a27551,37,"(36, 37]",mixed,-0.11190476190476191
+a27569,37,"(36, 37]",mixed,-0.11190476190476191
+a27582,37,"(36, 37]",mixed,-0.11190476190476191
+a27682,37,"(36, 37]",mixed,-0.11190476190476191
+a27783,37,"(36, 37]",mixed,-0.11190476190476191
+a27922,37,"(36, 37]",mixed,-0.11190476190476191
+a27952,37,"(36, 37]",mixed,-0.11190476190476191
+a28061,37,"(36, 37]",mixed,-0.11190476190476191
+a28100,37,"(36, 37]",mixed,-0.11190476190476191
+a28119,37,"(36, 37]",mixed,-0.11190476190476191
+a28151,37,"(36, 37]",mixed,-0.11190476190476191
+a28172,37,"(36, 37]",mixed,-0.11190476190476191
+a28267,37,"(36, 37]",mixed,-0.11190476190476191
+a28283,37,"(36, 37]",mixed,-0.11190476190476191
+a28348,37,"(36, 37]",mixed,-0.11190476190476191
+a28375,37,"(36, 37]",mixed,-0.11190476190476191
+a28394,37,"(36, 37]",mixed,-0.11190476190476191
+a28516,37,"(36, 37]",mixed,-0.11190476190476191
+a28561,37,"(36, 37]",mixed,-0.11190476190476191
+a28682,37,"(36, 37]",mixed,-0.11190476190476191
+a28685,37,"(36, 37]",mixed,-0.11190476190476191
+a28795,37,"(36, 37]",mixed,-0.11190476190476191
+a28814,37,"(36, 37]",mixed,-0.11190476190476191
+a28831,37,"(36, 37]",mixed,-0.11190476190476191
+a28853,37,"(36, 37]",mixed,-0.11190476190476191
+a28958,37,"(36, 37]",mixed,-0.11190476190476191
+a28982,37,"(36, 37]",mixed,-0.11190476190476191
+a28989,37,"(36, 37]",mixed,-0.11190476190476191
+a29200,37,"(36, 37]",mixed,-0.11190476190476191
+a29201,37,"(36, 37]",mixed,-0.11190476190476191
+a29325,37,"(36, 37]",mixed,-0.11190476190476191
+a29382,37,"(36, 37]",mixed,-0.11190476190476191
+a29400,37,"(36, 37]",mixed,-0.11190476190476191
+a29672,37,"(36, 37]",mixed,-0.11190476190476191
+a29774,37,"(36, 37]",mixed,-0.11190476190476191
+a29805,37,"(36, 37]",mixed,-0.11190476190476191
+a29822,37,"(36, 37]",mixed,-0.11190476190476191
+a29906,37,"(36, 37]",mixed,-0.11190476190476191
+a29916,37,"(36, 37]",mixed,-0.11190476190476191
+a29932,37,"(36, 37]",mixed,-0.11190476190476191
+a29961,37,"(36, 37]",mixed,-0.11190476190476191
+a29999,37,"(36, 37]",mixed,-0.11190476190476191
+a30130,37,"(36, 37]",mixed,-0.11190476190476191
+a30231,37,"(36, 37]",mixed,-0.11190476190476191
+a30252,37,"(36, 37]",mixed,-0.11190476190476191
+a30307,37,"(36, 37]",mixed,-0.11190476190476191
+a30308,37,"(36, 37]",mixed,-0.11190476190476191
+a30332,37,"(36, 37]",mixed,-0.11190476190476191
+a30385,37,"(36, 37]",mixed,-0.11190476190476191
+a30430,37,"(36, 37]",mixed,-0.11190476190476191
+a30438,37,"(36, 37]",mixed,-0.11190476190476191
+a30618,37,"(36, 37]",mixed,-0.11190476190476191
+a30726,37,"(36, 37]",mixed,-0.11190476190476191
+a30958,37,"(36, 37]",mixed,-0.11190476190476191
+a31071,37,"(36, 37]",mixed,-0.11190476190476191
+a31087,37,"(36, 37]",mixed,-0.11190476190476191
+a31092,37,"(36, 37]",mixed,-0.11190476190476191
+a31213,37,"(36, 37]",mixed,-0.11190476190476191
+a31405,37,"(36, 37]",mixed,-0.11190476190476191
+a31419,37,"(36, 37]",mixed,-0.11190476190476191
+a31440,37,"(36, 37]",mixed,-0.11190476190476191
+a31487,37,"(36, 37]",mixed,-0.11190476190476191

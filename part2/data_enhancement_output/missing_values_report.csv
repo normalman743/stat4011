@@ -1,0 +1,14 @@
+﻿列名,缺失数量,缺失比例(%),数据类型
+Crm Cd 4,1004927,99.99,float64
+Crm Cd 3,1002677,99.77,float64
+Crm Cd 2,935831,93.12,float64
+Cross Street,850755,84.65,object
+Weapon Used Cd,677744,67.44,float64
+Weapon Desc,677744,67.44,object
+Mocodes,151619,15.09,object
+Vict Descent,144656,14.39,object
+Vict Sex,144644,14.39,object
+Premis Desc,588,0.06,object
+Premis Cd,16,0.0,float64
+Crm Cd 1,11,0.0,float64
+Status,1,0.0,object

@@ -1,0 +1,36 @@
+数据清理报告
+==================================================
+
+清理前数据: 25198 行, 61 列
+清理后数据: 25198 行, 44 列
+删除特征数: 17 个
+
+删除的特征详情:
+------------------------------
+
+1. 数据泄露特征 (4 个):
+   - is_train
+   - is_test
+   - neighbor_bad_ratio_train_only
+   - train_neighbor_ratio
+
+2. 重复/高相关特征 (7 个):
+   - A_fpprofit
+   - A_bpprofit
+   - B_bpprofit
+   - degree_centrality
+   - B_fpprofit
+   - local_efficiency
+   - k_core_number
+
+3. 零值特征 (1 个):
+   - closeness_centrality
+
+4. 近零特征 (3 个):
+   - betweenness_centrality
+   - clustering_coefficient
+   - neighbor_count_2hop
+
+5. 低方差特征 (2 个):
+   - eigenvector_centrality
+   - pagerank_score

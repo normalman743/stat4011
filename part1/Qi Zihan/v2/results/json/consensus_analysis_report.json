@@ -1,0 +1,49 @@
+{
+  "analysis_summary": {
+    "total_accounts": 7558,
+    "unanimous_decisions": 7244,
+    "disputed_accounts": 314
+  },
+  "consensus_breakdown": {
+    "unanimous_good": 6765,
+    "unanimous_bad": 479,
+    "near_unanimous_good": 38,
+    "near_unanimous_bad": 190,
+    "split_decisions": 0,
+    "disputed": 86
+  },
+  "recommendations": [
+    {
+      "strategy": "CONSENSUS_100",
+      "description": "基于100%一致性预测",
+      "logic": "所有顶级模型一致的账户直接采纳",
+      "expected_changes": "确定预测 7244 个账户",
+      "confidence": "极高"
+    },
+    {
+      "strategy": "CONSENSUS_83",
+      "description": "处理83%一致性账户",
+      "logic": "只有1个模型分歧时，跟随多数",
+      "expected_changes": "额外确定 228 个账户",
+      "confidence": "高"
+    },
+    {
+      "strategy": "PATTERN_OPTIMIZATION",
+      "description": "优化最常见分歧模式 1011",
+      "logic": "对模式1011的190个账户使用特殊规则",
+      "expected_changes": "优化 190 个争议账户",
+      "confidence": "中等"
+    },
+    {
+      "strategy": "DISPUTE_RESOLUTION",
+      "description": "争议账户解决方案",
+      "logic": "86个高争议账户使用最高分模型决定",
+      "expected_changes": "解决 86 个争议案例",
+      "confidence": "中等"
+    }
+  ],
+  "generated_strategies": [
+    "CONSENSUS_OPTIMIZED",
+    "STRICT_CONSENSUS"
+  ]
+}

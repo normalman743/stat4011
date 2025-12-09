@@ -1,0 +1,63 @@
+
+================== 犯罪数据统计摘要 ==================
+
+数据总量: 3,137,329 条记录
+
+时间范围: 2010 - 2025
+
+Top 5 犯罪类型:
+Crm Cd Desc
+VEHICLE - STOLEN                      276063
+BATTERY - SIMPLE ASSAULT              265933
+BURGLARY FROM VEHICLE                 226760
+BURGLARY                              206054
+THEFT PLAIN - PETTY ($950 & UNDER)    204104
+
+Top 5 犯罪地区:
+AREA NAME
+77th Street    207475
+Southwest      193216
+Pacific        172258
+Central        168129
+N Hollywood    165357
+
+受害者性别分布:
+Vict Sex
+M    1384947
+F    1255635
+U     342637
+X     153904
+H        187
+N         17
+-          2
+
+案件状态分布:
+Status Desc
+Invest Cont     2435601
+Adult Other      365923
+Adult Arrest     309081
+Juv Arrest        19287
+Juv Other          7401
+UNK                  36
+
+年度犯罪统计:
+Year
+2010    209312
+2011    200901
+2012    201830
+2013    192871
+2014    195868
+2015    168074
+2016    283794
+2017    231744
+2018    229720
+2019    218823
+2020    199776
+2021    209782
+2022    235108
+2023    232117
+2024    127512
+2025        97
+
+所有图表已保存至: /Users/mannormal/Desktop/课程/y4t1/stat 4011/part2/crime_visualization_output
+=====================================================
